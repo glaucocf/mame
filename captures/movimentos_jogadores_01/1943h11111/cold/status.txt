@@ -1,0 +1,4 @@
+resultado=ok
+quadros=1225
+p1=02
+p2=02
