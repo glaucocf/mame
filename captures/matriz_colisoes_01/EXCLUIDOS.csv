@@ -1,0 +1,16 @@
+﻿modelo,banco,template,quadro,slot,estado_08,flags_09,tipo_0A,resistencia_0B,caixa_0C,caixa_0D,referencia,rotulo,motivo,rom,chave,caso,endereco,flags,tipo,resistencia,estado,arquivo,bytes,origem
+M001,-1,0FE3,362,10,14,0,2,0,0,0,0000,Visual: Grafico do jogador/controle - 04A,jogador,1943h10111,,,,,,,,,,
+M002,-1,48A6,362,3E,32,0,0,1,7,7,4945,Visual: Avioes da abertura - verificar papel,introducao anterior ao controle,1943h10111,,,,,,,,,,
+M003,-1,48C6,482,6E,16,0,0,1,7,7,49E1,Visual: Projetil ou efeito - grafico 0B0,introducao anterior ao controle,1943h10111,,,,,,,,,,
+M004,-1,48E6,482,56,32,0,0,1,7,7,4A59,Visual: Projetil ou efeito - grafico 140,introducao anterior ao controle,1943h10111,,,,,,,,,,
+M007,-1,7651,1720,34,16,5,14,1,10,10,7674,Visual: Controle ou objeto ainda sem associacao visual,item ou controle especial; nao classificado como inimigo,1943h10111,,,,,,,,,,
+M108,-1,78EE,219489,73,64,0,0,1,7,7,7956,Visual: A identificar,encerramento,1943h10111,,,,,,,,,,
+M109,-1,776C,220905,67,16,0,0,0,7,7,77A4,Visual: Projetil ou efeito - grafico 5D4,encerramento,1943h10111,,,,,,,,,,
+M110,-1,77BC,223122,66,16,0,0,1,7,7,7754,Visual: Projetil ou efeito - grafico 0D7,encerramento,1943h10111,,,,,,,,,,
+M001,-1,0F2E,362,10,14,0,2,0,0,0,0000,Visual: Grafico do jogador/controle - 04A,jogador,1943h11000,,,,,,,,,,
+M002,-1,5473,362,52,64,0,0,8,16,16,54AC,Visual: Aviao maior - peca grafica 622,introducao anterior ao controle,1943h11000,,,,,,,,,,
+M003,-1,5493,362,3E,32,0,0,6,10,10,5560,Visual: Aviao maior - peca grafica 324,introducao anterior ao controle,1943h11000,,,,,,,,,,
+M007,-1,7812,1839,34,16,5,14,1,10,10,7835,Visual: Controle ou objeto ainda sem associacao visual,item ou controle especial; nao classificado como inimigo,1943h11000,,,,,,,,,,
+M110,-1,7AC4,347669,73,64,0,0,1,7,7,7B2C,Visual: A identificar,encerramento,1943h11000,,,,,,,,,,
+M111,-1,7942,349085,6E,16,0,0,0,7,7,797A,Visual: Projetil ou efeito - grafico 5D4,encerramento,1943h11000,,,,,,,,,,
+N007,,,45,,,,,,,,71D3,,"item/bonus; nao incluido como inimigo, projetil ou destroco",1943h11000,L_-1_719B_71D3,M066_arma_50,F680,05,04,255,10,C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000_destruicao/novos/L_-1_719B_71D3.sta,0000807E00000000100504FF080A0000000000000000000700000000D371B471,apos morte; causalidade especifica depende da rotina

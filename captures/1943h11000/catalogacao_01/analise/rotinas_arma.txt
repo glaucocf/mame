@@ -1,0 +1,786 @@
+
+Banco -1 referencia 0B68
+0B40 32 2f e1        LD ($E12F),A
+0B43 21 98 0b        LD HL,$0B98
+0B46 cd d4 03        CALL $03D4
+0B49 af              XOR A
+0B4A 32 45 e1        LD ($E145),A
+0B4D 32 30 e1        LD ($E130),A
+0B50 32 5a e1        LD ($E15A),A
+0B53 21 26 0e        LD HL,$0E26
+0B56 11 00 f2        LD DE,$F200
+0B59 d5              PUSH DE
+0B5A dd e1           POP IX
+0B5C 01 28 00        LD BC,$0028
+0B5F ed b0           LDIR
+0B61 dd e5           PUSH IX
+0B63 fd e1           POP IY
+0B65 cd 9c 05        CALL $059C
+0B68 dd 36 51 00     LD (IX+0),$00
+0B6C dd 36 57 00     LD (IX+0),$00
+0B70 21 4e 0e        LD HL,$0E4E
+0B73 11 80 f2        LD DE,$F280
+0B76 d5              PUSH DE
+0B77 dd e1           POP IX
+0B79 01 28 00        LD BC,$0028
+0B7C ed b0           LDIR
+0B7E dd e5           PUSH IX
+0B80 fd e1           POP IY
+0B82 cd 9c 05        CALL $059C
+0B85 dd 36 51 00     LD (IX+0),$00
+0B89 dd 36 57 00     LD (IX+0),$00
+0B8D 3e 04           LD A,$04
+0B8F 32 2b e1        LD ($E12B),A
+0B92 c9              RET
+0B93 5d              LD E,L
+0B94 d0              RET NC
+0B95 1c              INC E
+0B96 1e 00           LD E,$00
+0B98 46              LD B,(HL)
+0B99 d0              RET NC
+0B9A 1c              INC E
+0B9B 07              RLCA
+0B9C 00              NOP
+0B9D 51              LD D,C
+0B9E d0              RET NC
+0B9F 1c              INC E
+0BA0 0c              INC C
+0BA1 00              NOP
+0BA2 91              SUB C
+0BA3 d1              POP DE
+0BA4 09              DB $09
+0BA5 01 00 10        LD BC,$1000
+0BA8 0a              LD A,(BC)
+
+Banco -1 referencia 0B85
+0B5D 28 00           JR Z,$0B5F
+0B5F ed b0           LDIR
+0B61 dd e5           PUSH IX
+0B63 fd e1           POP IY
+0B65 cd 9c 05        CALL $059C
+0B68 dd 36 51 00     LD (IX+0),$00
+0B6C dd 36 57 00     LD (IX+0),$00
+0B70 21 4e 0e        LD HL,$0E4E
+0B73 11 80 f2        LD DE,$F280
+0B76 d5              PUSH DE
+0B77 dd e1           POP IX
+0B79 01 28 00        LD BC,$0028
+0B7C ed b0           LDIR
+0B7E dd e5           PUSH IX
+0B80 fd e1           POP IY
+0B82 cd 9c 05        CALL $059C
+0B85 dd 36 51 00     LD (IX+0),$00
+0B89 dd 36 57 00     LD (IX+0),$00
+0B8D 3e 04           LD A,$04
+0B8F 32 2b e1        LD ($E12B),A
+0B92 c9              RET
+0B93 5d              LD E,L
+0B94 d0              RET NC
+0B95 1c              INC E
+0B96 1e 00           LD E,$00
+0B98 46              LD B,(HL)
+0B99 d0              RET NC
+0B9A 1c              INC E
+0B9B 07              RLCA
+0B9C 00              NOP
+0B9D 51              LD D,C
+0B9E d0              RET NC
+0B9F 1c              INC E
+0BA0 0c              INC C
+0BA1 00              NOP
+0BA2 91              SUB C
+0BA3 d1              POP DE
+0BA4 09              DB $09
+0BA5 01 00 10        LD BC,$1000
+0BA8 0a              LD A,(BC)
+0BA9 16 0e           LD D,$0E
+0BAB 24              INC H
+0BAC 18 1f           JR $0BCD
+0BAE 0e 1b           LD C,$1B
+0BB0 9a              SBC A,D
+0BB1 d0              RET NC
+0BB2 19              DB $19
+0BB3 13              INC DE
+0BB4 00              NOP
+0BB5 ff              RST $38H
+0BB6 08              EX AF,AF'
+0BB7 20 0a           JR NZ,$0BC3
+0BB9 1b              DB $1B
+0BBA 17              RLA
+0BBB 12              LD (DE),A
+0BBC 17              RLA
+0BBD 10 ff           DJNZ $0BBE
+0BBF 0a              LD A,(BC)
+0BC0 ff              RST $38H
+0BC1 19              DB $19
+0BC2 ff              RST $38H
+0BC3 19              DB $19
+0BC4 24              INC H
+0BC5 12              LD (DE),A
+
+Banco -1 referencia 0EF0
+0EC8 1f              RRA
+0EC9 e4 3a 05        CALL PO,$053A
+0ECC c0              RET NZ
+0ECD 6f              LD L,A
+0ECE 67              LD H,A
+0ECF 22 50 e4        LD ($E450),HL
+0ED2 af              XOR A
+0ED3 32 15 e4        LD ($E415),A
+0ED6 3e 01           LD A,$01
+0ED8 32 04 e4        LD ($E404),A
+0EDB af              XOR A
+0EDC 32 58 e4        LD ($E458),A
+0EDF 32 5a e1        LD ($E15A),A
+0EE2 21 2e 0f        LD HL,$0F2E
+0EE5 11 00 f2        LD DE,$F200
+0EE8 d5              PUSH DE
+0EE9 dd e1           POP IX
+0EEB 01 28 00        LD BC,$0028
+0EEE ed b0           LDIR
+0EF0 dd 36 51 00     LD (IX+0),$00
+0EF4 dd 36 57 00     LD (IX+0),$00
+0EF8 cd 1b 1e        CALL $1E1B
+0EFB 3e 02           LD A,$02
+0EFD 32 2b e1        LD ($E12B),A
+0F00 cd 0c 06        CALL $060C
+0F03 3a 11 e3        LD A,($E311)
+0F06 b7              OR A
+0F07 ca 8e 0f        JP Z,$0F8E
+0F0A 21 56 0f        LD HL,$0F56
+0F0D 11 80 f2        LD DE,$F280
+0F10 d5              PUSH DE
+0F11 dd e1           POP IX
+0F13 01 28 00        LD BC,$0028
+0F16 ed b0           LDIR
+0F18 dd 36 51 00     LD (IX+0),$00
+0F1C dd 36 57 00     LD (IX+0),$00
+0F20 3e 04           LD A,$04
+0F22 32 2b e1        LD ($E12B),A
+0F25 cd 0c 06        CALL $060C
+0F28 cd 1b 1e        CALL $1E1B
+0F2B c3 8e 0f        JP $0F8E
+0F2E 4a              LD C,D
+0F2F 10 68           DJNZ $0F99
+
+Banco -1 referencia 0F18
+0EF0 dd 36 51 00     LD (IX+0),$00
+0EF4 dd 36 57 00     LD (IX+0),$00
+0EF8 cd 1b 1e        CALL $1E1B
+0EFB 3e 02           LD A,$02
+0EFD 32 2b e1        LD ($E12B),A
+0F00 cd 0c 06        CALL $060C
+0F03 3a 11 e3        LD A,($E311)
+0F06 b7              OR A
+0F07 ca 8e 0f        JP Z,$0F8E
+0F0A 21 56 0f        LD HL,$0F56
+0F0D 11 80 f2        LD DE,$F280
+0F10 d5              PUSH DE
+0F11 dd e1           POP IX
+0F13 01 28 00        LD BC,$0028
+0F16 ed b0           LDIR
+0F18 dd 36 51 00     LD (IX+0),$00
+0F1C dd 36 57 00     LD (IX+0),$00
+0F20 3e 04           LD A,$04
+0F22 32 2b e1        LD ($E12B),A
+0F25 cd 0c 06        CALL $060C
+0F28 cd 1b 1e        CALL $1E1B
+0F2B c3 8e 0f        JP $0F8E
+0F2E 4a              LD C,D
+0F2F 10 68           DJNZ $0F99
+0F31 50              LD D,B
+0F32 00              NOP
+0F33 00              NOP
+0F34 40              LD B,B
+0F35 01 0e 00        LD BC,$000E
+0F38 02              LD (BC),A
+0F39 00              NOP
+0F3A 00              NOP
+0F3B 00              NOP
+0F3C 00              NOP
+0F3D 00              NOP
+0F3E 07              RLCA
+0F3F 05              DEC B
+0F40 00              NOP
+0F41 00              NOP
+0F42 00              NOP
+0F43 00              NOP
+0F44 00              NOP
+0F45 00              NOP
+0F46 00              NOP
+0F47 00              NOP
+0F48 00              NOP
+0F49 00              NOP
+0F4A 00              NOP
+0F4B 00              NOP
+0F4C 00              NOP
+0F4D 00              NOP
+0F4E 4b              LD C,E
+0F4F 10 78           DJNZ $0FC9
+0F51 50              LD D,B
+0F52 00              NOP
+0F53 00              NOP
+0F54 00              NOP
+0F55 00              NOP
+0F56 4a              LD C,D
+0F57 12              LD (DE),A
+0F58 68              LD L,B
+
+Banco -1 referencia 1723
+16FB a2              AND D
+16FC 46              LD B,(HL)
+16FD dd 36 52 02     LD (IX+2),$02
+1701 c9              RET
+1702 dd 7e 51        LD A,(IX-73)
+1705 b7              OR A
+1706 c8              RET Z
+1707 dd 34 58 dd     INC (IX-35)
+170B 7e              LD A,(HL)
+170C 58              LD E,B
+170D fe 3c           CP $3C
+170F 38 2a           JR C,$173B
+1711 dd 36 58 00     LD (IX+0),$00
+1715 dd 7e 57        LD A,(IX-2)
+1718 fe ff           CP $FF
+171A 28 1f           JR Z,$173B
+171C d6 01           SUB $01
+171E dd 77 57        LD (IX+48),A
+1721 30 18           JR NC,$173B
+1723 dd 36 51 00     LD (IX+0),$00
+1727 dd 36 58 00     LD (IX+0),$00
+172B 21 e6 17        LD HL,$17E6
+172E dd 7e 05        LD A,(IX-73)
+1731 b7              OR A
+1732 28 03           JR Z,$1737
+1734 21 eb 17        LD HL,$17EB
+1737 cd d4 03        CALL $03D4
+173A c9              RET
+173B fd 21 c0 d1     LD IY,$D1C0
+173F dd 7e 05        LD A,(IX-73)
+1742 b7              OR A
+1743 28 04           JR Z,$1749
+1745 fd 21 80 d3     LD IY,$D380
+1749 06 00           LD B,$00
+174B dd 7e 57        LD A,(IX-2)
+174E fe ff           CP $FF
+1750 20 05           JR NZ,$1757
+1752 3e 24           LD A,$24
+1754 c3 61 17        JP $1761
+1757 fe 0a           CP $0A
+1759 38 06           JR C,$1761
+175B d6 0a           SUB $0A
+175D 04              INC B
+175E c3 57 17        JP $1757
+1761 fd 77 00        LD (IY+120),A
+
+Banco -1 referencia 1E72
+1E4A 36 08           LD (HL),$08
+1E4C 06 dd           LD B,$DD
+1E4E 36 10           LD (HL),$10
+1E50 07              RLCA
+1E51 dd 36 11 05     LD (IX+5),$05
+1E55 dd 36 14 20     LD (IX+32),$20
+1E59 dd 36 1b 00     LD (IX+0),$00
+1E5D dd 36 1c 00     LD (IX+0),$00
+1E61 dd 36 1d 00     LD (IX+0),$00
+1E65 dd 36 1e 00     LD (IX+0),$00
+1E69 dd 36 1f 00     LD (IX+0),$00
+1E6D c9              RET
+1E6E af              XOR A
+1E6F dd 77 04        LD (IX-35),A
+1E72 dd 77 51        LD (IX-35),A
+1E75 dd 77 57        LD (IX-35),A
+1E78 dd 36 08 06     LD (IX+6),$06
+1E7C dd 77 09        LD (IX-35),A
+1E7F dd 36 0e 00     LD (IX+0),$00
+1E83 dd 36 0a 02     LD (IX+2),$02
+1E87 dd 36 06 40     LD (IX+64),$40
+1E8B dd 36 10 07     LD (IX+7),$07
+1E8F dd 36 11 05     LD (IX+5),$05
+1E93 dd 36 14 20     LD (IX+32),$20
+1E97 dd 36 1b 00     LD (IX+0),$00
+1E9B dd 36 1c 00     LD (IX+0),$00
+1E9F dd 36 1d 00     LD (IX+0),$00
+1EA3 dd 36 1e 00     LD (IX+0),$00
+1EA7 dd 36 1f 00     LD (IX+0),$00
+1EAB c9              RET
+1EAC 61              LD H,C
+1EAD d0              RET NC
+1EAE 0c              INC C
+1EAF 01 00 0c        LD BC,$0C00
+1EB2 18 17           JR $1ECB
+
+Banco -1 referencia 5972
+594A 06 cd           LD B,$CD
+594C 9c              SBC A,H
+594D 05              DEC B
+594E 3e 07           LD A,$07
+5950 cd 03 04        CALL $0403
+5953 c1              POP BC
+5954 c3 d3 5a        JP $5AD3
+5957 fd 7e 04        LD A,(IY-73)
+595A b7              OR A
+595B ca 62 59        JP Z,$5962
+595E fe 03           CP $03
+5960 20 04           JR NZ,$5966
+5962 fd 36 04 02     LD (IY+2),$02
+5966 3e 07           LD A,$07
+5968 cd 03 04        CALL $0403
+596B c1              POP BC
+596C c3 d3 5a        JP $5AD3
+596F cd 62 5b        CALL $5B62
+5972 fd 36 51 03     LD (IY+3),$03
+5976 c3 79 59        JP $5979
+5979 3e 07           LD A,$07
+597B cd 03 04        CALL $0403
+597E c1              POP BC
+597F c3 d3 5a        JP $5AD3
+5982 cd 62 5b        CALL $5B62
+5985 fd 36 51 04     LD (IY+4),$04
+5989 3e 07           LD A,$07
+598B cd 03 04        CALL $0403
+598E c1              POP BC
+598F c3 d3 5a        JP $5AD3
+5992 cd 62 5b        CALL $5B62
+5995 fd 36 51 08     LD (IY+8),$08
+5999 3e 07           LD A,$07
+599B cd 03 04        CALL $0403
+599E c1              POP BC
+599F c3 d3 5a        JP $5AD3
+59A2 cd 62 5b        CALL $5B62
+59A5 fd 36 51 01     LD (IY+1),$01
+59A9 3e 07           LD A,$07
+59AB cd 03 04        CALL $0403
+59AE c1              POP BC
+59AF c3 d3 5a        JP $5AD3
+59B2 cd 62 5b        CALL $5B62
+
+Banco -1 referencia 5985
+595D 59              LD E,C
+595E fe 03           CP $03
+5960 20 04           JR NZ,$5966
+5962 fd 36 04 02     LD (IY+2),$02
+5966 3e 07           LD A,$07
+5968 cd 03 04        CALL $0403
+596B c1              POP BC
+596C c3 d3 5a        JP $5AD3
+596F cd 62 5b        CALL $5B62
+5972 fd 36 51 03     LD (IY+3),$03
+5976 c3 79 59        JP $5979
+5979 3e 07           LD A,$07
+597B cd 03 04        CALL $0403
+597E c1              POP BC
+597F c3 d3 5a        JP $5AD3
+5982 cd 62 5b        CALL $5B62
+5985 fd 36 51 04     LD (IY+4),$04
+5989 3e 07           LD A,$07
+598B cd 03 04        CALL $0403
+598E c1              POP BC
+598F c3 d3 5a        JP $5AD3
+5992 cd 62 5b        CALL $5B62
+5995 fd 36 51 08     LD (IY+8),$08
+5999 3e 07           LD A,$07
+599B cd 03 04        CALL $0403
+599E c1              POP BC
+599F c3 d3 5a        JP $5AD3
+59A2 cd 62 5b        CALL $5B62
+59A5 fd 36 51 01     LD (IY+1),$01
+59A9 3e 07           LD A,$07
+59AB cd 03 04        CALL $0403
+59AE c1              POP BC
+59AF c3 d3 5a        JP $5AD3
+59B2 cd 62 5b        CALL $5B62
+59B5 fd 36 51 50     LD (IY+80),$50
+59B9 c3 d5 59        JP $59D5
+59BC cd 62 5b        CALL $5B62
+59BF fd 7e 51        LD A,(IY-2)
+59C2 fe 30           CP $30
+59C4 28 0f           JR Z,$59D5
+
+Banco -1 referencia 5995
+596D d3 5a           OUT ($5A),A
+596F cd 62 5b        CALL $5B62
+5972 fd 36 51 03     LD (IY+3),$03
+5976 c3 79 59        JP $5979
+5979 3e 07           LD A,$07
+597B cd 03 04        CALL $0403
+597E c1              POP BC
+597F c3 d3 5a        JP $5AD3
+5982 cd 62 5b        CALL $5B62
+5985 fd 36 51 04     LD (IY+4),$04
+5989 3e 07           LD A,$07
+598B cd 03 04        CALL $0403
+598E c1              POP BC
+598F c3 d3 5a        JP $5AD3
+5992 cd 62 5b        CALL $5B62
+5995 fd 36 51 08     LD (IY+8),$08
+5999 3e 07           LD A,$07
+599B cd 03 04        CALL $0403
+599E c1              POP BC
+599F c3 d3 5a        JP $5AD3
+59A2 cd 62 5b        CALL $5B62
+59A5 fd 36 51 01     LD (IY+1),$01
+59A9 3e 07           LD A,$07
+59AB cd 03 04        CALL $0403
+59AE c1              POP BC
+59AF c3 d3 5a        JP $5AD3
+59B2 cd 62 5b        CALL $5B62
+59B5 fd 36 51 50     LD (IY+80),$50
+59B9 c3 d5 59        JP $59D5
+59BC cd 62 5b        CALL $5B62
+59BF fd 7e 51        LD A,(IY-2)
+59C2 fe 30           CP $30
+59C4 28 0f           JR Z,$59D5
+59C6 fe 10           CP $10
+59C8 20 07           JR NZ,$59D1
+59CA fd 36 51 30     LD (IY+48),$30
+59CE c3 d5 59        JP $59D5
+59D1 fd 36 51 10     LD (IY+16),$10
+59D5 3e 07           LD A,$07
+
+Banco -1 referencia 59A5
+597D 04              INC B
+597E c1              POP BC
+597F c3 d3 5a        JP $5AD3
+5982 cd 62 5b        CALL $5B62
+5985 fd 36 51 04     LD (IY+4),$04
+5989 3e 07           LD A,$07
+598B cd 03 04        CALL $0403
+598E c1              POP BC
+598F c3 d3 5a        JP $5AD3
+5992 cd 62 5b        CALL $5B62
+5995 fd 36 51 08     LD (IY+8),$08
+5999 3e 07           LD A,$07
+599B cd 03 04        CALL $0403
+599E c1              POP BC
+599F c3 d3 5a        JP $5AD3
+59A2 cd 62 5b        CALL $5B62
+59A5 fd 36 51 01     LD (IY+1),$01
+59A9 3e 07           LD A,$07
+59AB cd 03 04        CALL $0403
+59AE c1              POP BC
+59AF c3 d3 5a        JP $5AD3
+59B2 cd 62 5b        CALL $5B62
+59B5 fd 36 51 50     LD (IY+80),$50
+59B9 c3 d5 59        JP $59D5
+59BC cd 62 5b        CALL $5B62
+59BF fd 7e 51        LD A,(IY-2)
+59C2 fe 30           CP $30
+59C4 28 0f           JR Z,$59D5
+59C6 fe 10           CP $10
+59C8 20 07           JR NZ,$59D1
+59CA fd 36 51 30     LD (IY+48),$30
+59CE c3 d5 59        JP $59D5
+59D1 fd 36 51 10     LD (IY+16),$10
+59D5 3e 07           LD A,$07
+59D7 cd 03 04        CALL $0403
+59DA c1              POP BC
+59DB c3 d3 5a        JP $5AD3
+59DE 3e 07           LD A,$07
+59E0 cd 03 04        CALL $0403
+59E3 fd 7e 05        LD A,(IY+60)
+
+Banco -1 referencia 59B5
+598D 04              INC B
+598E c1              POP BC
+598F c3 d3 5a        JP $5AD3
+5992 cd 62 5b        CALL $5B62
+5995 fd 36 51 08     LD (IY+8),$08
+5999 3e 07           LD A,$07
+599B cd 03 04        CALL $0403
+599E c1              POP BC
+599F c3 d3 5a        JP $5AD3
+59A2 cd 62 5b        CALL $5B62
+59A5 fd 36 51 01     LD (IY+1),$01
+59A9 3e 07           LD A,$07
+59AB cd 03 04        CALL $0403
+59AE c1              POP BC
+59AF c3 d3 5a        JP $5AD3
+59B2 cd 62 5b        CALL $5B62
+59B5 fd 36 51 50     LD (IY+80),$50
+59B9 c3 d5 59        JP $59D5
+59BC cd 62 5b        CALL $5B62
+59BF fd 7e 51        LD A,(IY-2)
+59C2 fe 30           CP $30
+59C4 28 0f           JR Z,$59D5
+59C6 fe 10           CP $10
+59C8 20 07           JR NZ,$59D1
+59CA fd 36 51 30     LD (IY+48),$30
+59CE c3 d5 59        JP $59D5
+59D1 fd 36 51 10     LD (IY+16),$10
+59D5 3e 07           LD A,$07
+59D7 cd 03 04        CALL $0403
+59DA c1              POP BC
+59DB c3 d3 5a        JP $5AD3
+59DE 3e 07           LD A,$07
+59E0 cd 03 04        CALL $0403
+59E3 fd 7e 05        LD A,(IY+60)
+59E6 3c              INC A
+59E7 dd 77 0e        LD (IX-51),A
+59EA cd 99 22        CALL $2299
+59ED c1              POP BC
+59EE c3 d3 5a        JP $5AD3
+59F1 3e 07           LD A,$07
+59F3 cd 03 04        CALL $0403
+
+Banco -1 referencia 59CA
+59A2 cd 62 5b        CALL $5B62
+59A5 fd 36 51 01     LD (IY+1),$01
+59A9 3e 07           LD A,$07
+59AB cd 03 04        CALL $0403
+59AE c1              POP BC
+59AF c3 d3 5a        JP $5AD3
+59B2 cd 62 5b        CALL $5B62
+59B5 fd 36 51 50     LD (IY+80),$50
+59B9 c3 d5 59        JP $59D5
+59BC cd 62 5b        CALL $5B62
+59BF fd 7e 51        LD A,(IY-2)
+59C2 fe 30           CP $30
+59C4 28 0f           JR Z,$59D5
+59C6 fe 10           CP $10
+59C8 20 07           JR NZ,$59D1
+59CA fd 36 51 30     LD (IY+48),$30
+59CE c3 d5 59        JP $59D5
+59D1 fd 36 51 10     LD (IY+16),$10
+59D5 3e 07           LD A,$07
+59D7 cd 03 04        CALL $0403
+59DA c1              POP BC
+59DB c3 d3 5a        JP $5AD3
+59DE 3e 07           LD A,$07
+59E0 cd 03 04        CALL $0403
+59E3 fd 7e 05        LD A,(IY+60)
+59E6 3c              INC A
+59E7 dd 77 0e        LD (IX-51),A
+59EA cd 99 22        CALL $2299
+59ED c1              POP BC
+59EE c3 d3 5a        JP $5AD3
+59F1 3e 07           LD A,$07
+59F3 cd 03 04        CALL $0403
+59F6 fd 36 57 50     LD (IY+80),$50
+59FA fd 7e 05        LD A,(IY+60)
+59FD 3c              INC A
+59FE dd 77 0e        LD (IX-51),A
+5A01 cd 99 22        CALL $2299
+5A04 c1              POP BC
+5A05 c3 d3 5a        JP $5AD3
+5A08 3e 07           LD A,$07
+5A0A cd 03 04        CALL $0403
+
+Banco -1 referencia 59D1
+59A9 3e 07           LD A,$07
+59AB cd 03 04        CALL $0403
+59AE c1              POP BC
+59AF c3 d3 5a        JP $5AD3
+59B2 cd 62 5b        CALL $5B62
+59B5 fd 36 51 50     LD (IY+80),$50
+59B9 c3 d5 59        JP $59D5
+59BC cd 62 5b        CALL $5B62
+59BF fd 7e 51        LD A,(IY-2)
+59C2 fe 30           CP $30
+59C4 28 0f           JR Z,$59D5
+59C6 fe 10           CP $10
+59C8 20 07           JR NZ,$59D1
+59CA fd 36 51 30     LD (IY+48),$30
+59CE c3 d5 59        JP $59D5
+59D1 fd 36 51 10     LD (IY+16),$10
+59D5 3e 07           LD A,$07
+59D7 cd 03 04        CALL $0403
+59DA c1              POP BC
+59DB c3 d3 5a        JP $5AD3
+59DE 3e 07           LD A,$07
+59E0 cd 03 04        CALL $0403
+59E3 fd 7e 05        LD A,(IY+60)
+59E6 3c              INC A
+59E7 dd 77 0e        LD (IX-51),A
+59EA cd 99 22        CALL $2299
+59ED c1              POP BC
+59EE c3 d3 5a        JP $5AD3
+59F1 3e 07           LD A,$07
+59F3 cd 03 04        CALL $0403
+59F6 fd 36 57 50     LD (IY+80),$50
+59FA fd 7e 05        LD A,(IY+60)
+59FD 3c              INC A
+59FE dd 77 0e        LD (IX-51),A
+5A01 cd 99 22        CALL $2299
+5A04 c1              POP BC
+5A05 c3 d3 5a        JP $5AD3
+5A08 3e 07           LD A,$07
+5A0A cd 03 04        CALL $0403
+5A0D fd 7e 05        LD A,(IY+60)
+5A10 3c              INC A
+5A11 dd 77 0e        LD (IX-51),A
+
+Banco -1 referencia 6200
+61D8 20 13           JR NZ,$61ED
+61DA fd 21 80 f3     LD IY,$F380
+61DE 06 09           LD B,$09
+61E0 3a 88 f2        LD A,($F288)
+61E3 fe 02           CP $02
+61E5 c2 f9 61        JP NZ,$61F9
+61E8 06 12           LD B,$12
+61EA c3 f9 61        JP $61F9
+61ED 3a 88 f2        LD A,($F288)
+61F0 fe 02           CP $02
+61F2 c0              RET NZ
+61F3 fd 21 a0 f4     LD IY,$F4A0
+61F7 06 09           LD B,$09
+61F9 dd 7e 09        LD A,(IX-26)
+61FC e6 02           AND $02
+61FE 20 28           JR NZ,$6228
+6200 3a 51 f2        LD A,($F251)
+6203 e6 02           AND $02
+6205 28 13           JR Z,$621A
+6207 fd 21 80 f3     LD IY,$F380
+620B 06 09           LD B,$09
+620D 3a d1 f2        LD A,($F2D1)
+6210 e6 02           AND $02
+6212 ca 28 62        JP Z,$6228
+6215 06 12           LD B,$12
+6217 c3 28 62        JP $6228
+621A 3a d1 f2        LD A,($F2D1)
+621D e6 02           AND $02
+621F ca 8d 62        JP Z,$628D
+6222 fd 21 a0 f4     LD IY,$F4A0
+6226 06 09           LD B,$09
+6228 11 20 00        LD DE,$0020
+622B fd 7e 08        LD A,(IY-2)
+622E fe 02           CP $02
+6230 c2 5d 62        JP NZ,$625D
+6233 fd 7e 03        LD A,(IY-35)
+6236 dd 96 03        SUB (IX+48)
+6239 30 02           JR NC,$623D
+623B ed 44           NEG
+623D 4f              LD C,A
+623E dd 7e 0d        LD A,(IX-3)
+
+Banco -1 referencia 6FD6
+6FAE 02              LD (BC),A
+6FAF 02              LD (BC),A
+6FB0 02              LD (BC),A
+6FB1 02              LD (BC),A
+6FB2 02              LD (BC),A
+6FB3 3a 50 e4        LD A,($E450)
+6FB6 07              RLCA
+6FB7 5f              LD E,A
+6FB8 16 00           LD D,$00
+6FBA dd 21 00 f2     LD IX,$F200
+6FBE dd 7e 08        LD A,(IX-73)
+6FC1 b7              OR A
+6FC2 28 18           JR Z,$6FDC
+6FC4 21 fc 6f        LD HL,$6FFC
+6FC7 19              DB $19
+6FC8 3a 01 c0        LD A,($C001)
+6FCB 2f              CPL
+6FCC ae              XOR (HL)
+6FCD 28 03           JR Z,$6FD2
+6FCF c3 dc 6f        JP $6FDC
+6FD2 23              INC HL
+6FD3 7e              LD A,(HL)
+6FD4 06 50           LD B,$50
+6FD6 dd 77 51        LD (IX-35),A
+6FD9 dd 70 57        LD (IX-35),B
+6FDC dd 21 80 f2     LD IX,$F280
+6FE0 dd 7e 08        LD A,(IX-73)
+6FE3 b7              OR A
+6FE4 c8              RET Z
+6FE5 21 1c 70        LD HL,$701C
+6FE8 19              DB $19
+6FE9 3a 02 c0        LD A,($C002)
+6FEC 2f              CPL
+6FED ae              XOR (HL)
+6FEE 28 01           JR Z,$6FF1
+6FF0 c9              RET
+6FF1 23              INC HL
+6FF2 7e              LD A,(HL)
+6FF3 06 50           LD B,$50
+6FF5 dd 77 51        LD (IX-35),A
+6FF8 dd 70 57        LD (IX-55),B
+6FFB c9              RET
+6FFC 04              INC B
+6FFD 03              INC BC
+6FFE 01 03 0a        LD BC,$0A03
+7001 10 30           DJNZ $7033
+7003 03              INC BC
+7004 10 04           DJNZ $700A
+7006 16 04           LD D,$04
+7008 02              LD (BC),A
+7009 08              EX AF,AF'
+700A 18 04           JR $7010
+700C 26 10           LD H,$10
+700E 04              INC B
+700F 08              EX AF,AF'
+7010 39              DB $39
+7011 04              INC B
+7012 34              INC (HL)
+7013 04              INC B
+7014 0a              LD A,(BC)
+7015 04              INC B
+7016 26 10           LD H,$10
+
+Banco -1 referencia 6FF5
+6FCD 28 03           JR Z,$6FD2
+6FCF c3 dc 6f        JP $6FDC
+6FD2 23              INC HL
+6FD3 7e              LD A,(HL)
+6FD4 06 50           LD B,$50
+6FD6 dd 77 51        LD (IX-35),A
+6FD9 dd 70 57        LD (IX-35),B
+6FDC dd 21 80 f2     LD IX,$F280
+6FE0 dd 7e 08        LD A,(IX-73)
+6FE3 b7              OR A
+6FE4 c8              RET Z
+6FE5 21 1c 70        LD HL,$701C
+6FE8 19              DB $19
+6FE9 3a 02 c0        LD A,($C002)
+6FEC 2f              CPL
+6FED ae              XOR (HL)
+6FEE 28 01           JR Z,$6FF1
+6FF0 c9              RET
+6FF1 23              INC HL
+6FF2 7e              LD A,(HL)
+6FF3 06 50           LD B,$50
+6FF5 dd 77 51        LD (IX-35),A
+6FF8 dd 70 57        LD (IX-55),B
+6FFB c9              RET
+6FFC 04              INC B
+6FFD 03              INC BC
+6FFE 01 03 0a        LD BC,$0A03
+7001 10 30           DJNZ $7033
+7003 03              INC BC
+7004 10 04           DJNZ $700A
+7006 16 04           LD D,$04
+7008 02              LD (BC),A
+7009 08              EX AF,AF'
+700A 18 04           JR $7010
+700C 26 10           LD H,$10
+700E 04              INC B
+700F 08              EX AF,AF'
+7010 39              DB $39
+7011 04              INC B
+7012 34              INC (HL)
+7013 04              INC B
+7014 0a              LD A,(BC)
+7015 04              INC B
+7016 26 10           LD H,$10
+7018 2a 08 18        LD HL,($1808)
+701B 04              INC B
+701C 30 03           JR NC,$7021
+701E 09              DB $09
+701F 03              INC BC
+7020 24              INC H
+7021 10 21           DJNZ $7044
+7023 03              INC BC
+7024 0a              LD A,(BC)
+7025 04              INC B
+7026 18 04           JR $702C
+7028 15              DEC D
+7029 08              EX AF,AF'
+702A 35              DEC (HL)
+702B 04              INC B
+702C 1a              LD A,(DE)
+702D 10 1a           DJNZ $7049
+702F 08              EX AF,AF'
+7030 21 04 20        LD HL,$2004
+7033 04              INC B
+7034 0a              LD A,(BC)
+7035 04              INC B

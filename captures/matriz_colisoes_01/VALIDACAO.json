@@ -1,0 +1,27 @@
+{
+  "casos_impacto_e_contato": 2336,
+  "casos_principais": 2000,
+  "casos_laser_09F": 336,
+  "perfis_testados": 222,
+  "destruicoes": 345,
+  "perfis_adicionais_descobertos": 16,
+  "perfis_adicionais_em_matriz": 15,
+  "impactos_com_aritmetica_conferida": 1669,
+  "estado_inicial_identico_por_perfil": true,
+  "referencias_de_perfil_conferidas": true,
+  "pendencias_em_flags_ativas": [],
+  "observacao_pos_morte_quadros": [
+    120,
+    600
+  ],
+  "categorias": {
+    "atingiu_e_consumiu_tiro": 1161,
+    "atingiu_e_continuou": 508,
+    "causou_dano_ao_jogador": 129,
+    "sem_teste_espacial_para_esta_arma": 383,
+    "sem_dano_no_ensaio": 93,
+    "nenhum_tiro_ativo": 62
+  },
+  "contatos_com_dano": 129,
+  "perfis_projeteis": 8
+}

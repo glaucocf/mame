@@ -1,0 +1,5 @@
+indice=817
+total=816
+caso=
+quadro=0
+estado=concluido

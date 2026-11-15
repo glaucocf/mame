@@ -1,0 +1,7 @@
+quadro,evento,endereco,antes,depois,pc,ix,iy
+0,alvo_pronto,F600,16,1,00C7,F200,F280
+121,movimento_livre,F600,176,105,00C7,F200,F280
+166,alvo_retirado,F608,16,0,5AD7,F600,F300
+181,alvo_pronto,F600,16,1,00C7,F200,F280
+193,impacto_natural,F60B,1,0,57FC,F600,F3A0
+228,alvo_retirado,F608,16,0,5AD7,F600,F300

@@ -1,0 +1,10 @@
+quadro,evento,endereco,antes,depois,pc,ix,iy
+0,alvo_pronto,FAC0,33,20,00CC,F200,F280
+11,criacao_propria_fora_do_pool_de_tiros_bloqueada,F5C8,0,16,925B,FAC0,F5C0
+41,criacao_propria_fora_do_pool_de_tiros_bloqueada,F5C8,0,16,925B,FAC0,F5C0
+71,criacao_propria_fora_do_pool_de_tiros_bloqueada,F5C8,0,16,925B,FAC0,F5C0
+101,criacao_propria_fora_do_pool_de_tiros_bloqueada,F5C8,0,16,925B,FAC0,F5C0
+121,movimento_livre,FAC0,176,64,00C9,F200,F280
+181,alvo_pronto,FAC0,33,20,00CC,F200,F280
+190,impacto_natural,FACB,20,0,5D57,FAC0,F380
+236,alvo_retirado,FAC8,33,0,5E5B,FAC0,F300

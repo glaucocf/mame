@@ -1,0 +1,7 @@
+caso,modelo,modo,arma,resultado,quadros,alvo,tiro,flags_iniciais,tipo,resistencia_inicial,resistencia_final,forca_inicial,forca_final,estado_tiro_final,energia_inicial,energia_apos_dano,invuln_final,flag_jogador_07,leituras_flags,aproximacoes,pc_primeiro_evento,rotina,referencia_inicial,referencia_esperada,energia_antes_dano,dano_por_contato
+M011_arma_01,M011,arma,01,atingiu_e_consumiu_tiro,9,FA40,F380,03,00,8,7,1,1,04,64,64,2,0,20,1,64E6,alvo_grande,9F48,9F48,64,0
+M011_arma_04,M011,arma,04,atingiu_e_consumiu_tiro,5,FA40,F380,03,00,8,7,1,1,04,64,64,2,0,6,1,64E6,alvo_grande,9F48,9F48,64,0
+M051_arma_01,M051,arma,01,atingiu_e_consumiu_tiro,9,FE20,F380,07,00,64,63,1,1,04,64,64,2,0,20,1,56DE,alvo,ABA5,ABA5,64,0
+M051_arma_04,M051,arma,04,atingiu_e_consumiu_tiro,5,FE20,F380,07,00,64,63,1,1,04,64,64,2,0,6,1,56DE,alvo,ABA5,ABA5,64,0
+M070_arma_01,M070,arma,01,atingiu_e_consumiu_tiro,9,FC40,F380,03,00,20,19,1,1,04,64,64,2,0,20,1,64E6,alvo_grande,A42A,A42A,64,0
+M070_arma_04,M070,arma,04,atingiu_e_consumiu_tiro,5,FC40,F380,03,00,20,19,1,1,04,64,64,2,0,6,1,64E6,alvo_grande,A42A,A42A,64,0

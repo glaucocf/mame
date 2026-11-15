@@ -1,0 +1,5 @@
+indice=8
+total=7
+modelo=
+quadro=360
+estado=concluido

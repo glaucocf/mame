@@ -1,0 +1,5 @@
+indice=1051
+total=1050
+caso=
+quadro=0
+estado=concluido

@@ -1,0 +1,41 @@
+{
+  "rom": "1943h11000",
+  "quadros": 300000,
+  "ocorrencias_grafico_gatinho": [
+    {
+      "primeiro_quadro": 299049,
+      "ultimo_quadro": 299688,
+      "registro": "3B",
+      "fase_id": 2,
+      "x": 255,
+      "y": 128,
+      "arma": "04",
+      "amostras": [
+        {
+          "quadro": 299300,
+          "codigo": "0CC",
+          "x": 216,
+          "y": 176,
+          "registro_hex": "cca9b0d80300000010010f0b080a0000000600000000000700000000ad748774"
+        },
+        {
+          "quadro": 299500,
+          "codigo": "0CC",
+          "x": 208,
+          "y": 72,
+          "registro_hex": "cca948d00300000010010f0b080a0000000b00000000000700000000ad748774"
+        }
+      ]
+    }
+  ],
+  "confirmacao_visual": {
+    "fracao_pixels_iguais": 1.0,
+    "amostra": {
+      "quadro": 299092,
+      "codigo": "5C4",
+      "imagem": "C:\\Users\\glauc\\OneDrive\\Documentos\\claude\\arcade\\battle-of-midway\\mame-src\\captures\\1943h11000\\campanha\\campanha_com_tiro_01\\f0299092.png",
+      "x_imagem": 192,
+      "y_imagem": 200
+    }
+  }
+}

@@ -1,0 +1,8 @@
+rom=1943h10111
+quadro=45
+estado=ok
+alvo=F700
+hp=1
+camadas=40
+criacao_bloqueada=0
+impactos=0

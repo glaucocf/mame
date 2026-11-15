@@ -1,0 +1,10 @@
+{
+  "rom": "1943h01110",
+  "source_rom": "1943h01000",
+  "source_save": "C:\\Users\\glauc\\OneDrive\\Documentos\\claude\\arcade\\battle-of-midway\\mame-src\\captures\\laboratorio_inimigos_01\\bases_nativas\\1943h01110\\aviao_inicial.sta",
+  "target": 62912,
+  "reference": 24081,
+  "engine": 1,
+  "language": 0,
+  "hp": 1
+}

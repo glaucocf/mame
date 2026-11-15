@@ -1,0 +1,10 @@
+caso,modelo,modo,arma,resultado,quadros,alvo,tiro,flags_iniciais,tipo,resistencia_inicial,resistencia_final,forca_inicial,forca_final,estado_tiro_final,energia_inicial,energia_apos_dano,invuln_final,flag_jogador_07,leituras_flags,aproximacoes,pc_primeiro_evento,rotina,referencia_inicial,referencia_esperada,energia_antes_dano,dano_por_contato
+M006_arma_10_sec09F,M006,arma,10,atingiu_e_continuou,10,F5C0,F3A0,03,00,1,0,2,1,02,64,64,2,0,25,1,57FC,alvo,5B6A,5B6A,64,0
+M006_arma_30_sec09F,M006,arma,30,atingiu_e_continuou,10,F5C0,F3A0,03,00,1,0,2,1,02,64,64,2,0,25,1,57FC,alvo,5B6A,5B6A,64,0
+M006_arma_50_sec09F,M006,arma,50,atingiu_e_continuou,10,F5C0,F3A0,03,00,1,0,2,1,02,64,64,2,0,25,1,57FC,alvo,5B6A,5B6A,64,0
+M019_arma_10_sec09F,M019,arma,10,atingiu_e_consumiu_tiro,10,FAC0,F3A0,06,60,15,13,2,2,04,64,64,2,0,25,1,5E56,alvo_multisprite,6040,6040,64,0
+M019_arma_30_sec09F,M019,arma,30,atingiu_e_consumiu_tiro,10,FAC0,F3A0,06,60,15,13,2,2,04,64,64,2,0,25,1,5E56,alvo_multisprite,6040,6040,64,0
+M019_arma_50_sec09F,M019,arma,50,atingiu_e_consumiu_tiro,10,FAC0,F3A0,06,60,15,13,2,2,04,64,64,2,0,25,1,5E56,alvo_multisprite,6040,6040,64,0
+M109_arma_10_sec09F,M109,arma,10,atingiu_e_consumiu_tiro,5,F5C0,F3A0,03,40,4,2,2,2,04,64,64,2,0,6,1,57EA,alvo,5B6A,5B6A,64,0
+M109_arma_30_sec09F,M109,arma,30,atingiu_e_consumiu_tiro,5,F5C0,F3A0,03,40,4,2,2,2,04,64,64,2,0,6,1,57EA,alvo,5B6A,5B6A,64,0
+M109_arma_50_sec09F,M109,arma,50,atingiu_e_consumiu_tiro,5,F5C0,F3A0,03,40,4,2,2,2,04,64,64,2,0,6,1,57EA,alvo,5B6A,5B6A,64,0

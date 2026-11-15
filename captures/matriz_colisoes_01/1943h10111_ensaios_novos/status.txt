@@ -1,0 +1,5 @@
+indice=57
+total=56
+caso=
+quadro=0
+estado=concluido

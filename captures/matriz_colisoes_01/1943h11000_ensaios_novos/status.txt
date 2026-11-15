@@ -1,0 +1,5 @@
+indice=61
+total=60
+caso=
+quadro=0
+estado=concluido

@@ -1,0 +1,892 @@
+[
+  {
+    "rom": "1943h10111",
+    "arma": "00",
+    "campo_0D_enquanto_estado_02": {
+      "1": 246
+    },
+    "campo_0D_entrada_estado_02": {
+      "1": 24
+    },
+    "reducoes_positivas": [],
+    "total_reducoes_positivas": 0
+  },
+  {
+    "rom": "1943h10111",
+    "arma": "01",
+    "campo_0D_enquanto_estado_02": {
+      "1": 386
+    },
+    "campo_0D_entrada_estado_02": {
+      "1": 56
+    },
+    "reducoes_positivas": [],
+    "total_reducoes_positivas": 0
+  },
+  {
+    "rom": "1943h10111",
+    "arma": "02",
+    "campo_0D_enquanto_estado_02": {
+      "1": 569
+    },
+    "campo_0D_entrada_estado_02": {
+      "1": 55
+    },
+    "reducoes_positivas": [],
+    "total_reducoes_positivas": 0
+  },
+  {
+    "rom": "1943h10111",
+    "arma": "03",
+    "campo_0D_enquanto_estado_02": {
+      "1": 483
+    },
+    "campo_0D_entrada_estado_02": {
+      "1": 55
+    },
+    "reducoes_positivas": [],
+    "total_reducoes_positivas": 0
+  },
+  {
+    "rom": "1943h10111",
+    "arma": "04",
+    "campo_0D_enquanto_estado_02": {
+      "1": 709
+    },
+    "campo_0D_entrada_estado_02": {
+      "1": 63
+    },
+    "reducoes_positivas": [],
+    "total_reducoes_positivas": 0
+  },
+  {
+    "rom": "1943h10111",
+    "arma": "08",
+    "campo_0D_enquanto_estado_02": {
+      "2": 503,
+      "1": 86
+    },
+    "campo_0D_entrada_estado_02": {
+      "2": 35
+    },
+    "reducoes_positivas": [
+      {
+        "quadro": 47,
+        "registro": "1C",
+        "forca_antes": 2,
+        "forca_depois": 1,
+        "codigo": "095"
+      },
+      {
+        "quadro": 93,
+        "registro": "1C",
+        "forca_antes": 2,
+        "forca_depois": 1,
+        "codigo": "095"
+      },
+      {
+        "quadro": 109,
+        "registro": "1E",
+        "forca_antes": 2,
+        "forca_depois": 1,
+        "codigo": "095"
+      },
+      {
+        "quadro": 125,
+        "registro": "1D",
+        "forca_antes": 2,
+        "forca_depois": 1,
+        "codigo": "095"
+      },
+      {
+        "quadro": 141,
+        "registro": "1C",
+        "forca_antes": 2,
+        "forca_depois": 1,
+        "codigo": "095"
+      },
+      {
+        "quadro": 157,
+        "registro": "1E",
+        "forca_antes": 2,
+        "forca_depois": 1,
+        "codigo": "095"
+      },
+      {
+        "quadro": 195,
+        "registro": "1C",
+        "forca_antes": 2,
+        "forca_depois": 1,
+        "codigo": "095"
+      },
+      {
+        "quadro": 207,
+        "registro": "1E",
+        "forca_antes": 2,
+        "forca_depois": 1,
+        "codigo": "095"
+      },
+      {
+        "quadro": 209,
+        "registro": "1D",
+        "forca_antes": 2,
+        "forca_depois": 1,
+        "codigo": "095"
+      },
+      {
+        "quadro": 223,
+        "registro": "1C",
+        "forca_antes": 2,
+        "forca_depois": 1,
+        "codigo": "095"
+      },
+      {
+        "quadro": 239,
+        "registro": "1C",
+        "forca_antes": 2,
+        "forca_depois": 1,
+        "codigo": "095"
+      }
+    ],
+    "total_reducoes_positivas": 11
+  },
+  {
+    "rom": "1943h10111",
+    "arma": "10",
+    "campo_0D_enquanto_estado_02": {
+      "48": 652,
+      "47": 59,
+      "46": 9
+    },
+    "campo_0D_entrada_estado_02": {
+      "48": 72
+    },
+    "reducoes_positivas": [
+      {
+        "quadro": 41,
+        "registro": "1C",
+        "forca_antes": 48,
+        "forca_depois": 47,
+        "codigo": "096"
+      },
+      {
+        "quadro": 103,
+        "registro": "1C",
+        "forca_antes": 48,
+        "forca_depois": 47,
+        "codigo": "096"
+      },
+      {
+        "quadro": 135,
+        "registro": "1C",
+        "forca_antes": 48,
+        "forca_depois": 47,
+        "codigo": "096"
+      },
+      {
+        "quadro": 137,
+        "registro": "1C",
+        "forca_antes": 47,
+        "forca_depois": 46,
+        "codigo": "096"
+      },
+      {
+        "quadro": 187,
+        "registro": "1D",
+        "forca_antes": 48,
+        "forca_depois": 47,
+        "codigo": "096"
+      },
+      {
+        "quadro": 189,
+        "registro": "1C",
+        "forca_antes": 48,
+        "forca_depois": 47,
+        "codigo": "096"
+      },
+      {
+        "quadro": 191,
+        "registro": "1D",
+        "forca_antes": 47,
+        "forca_depois": 46,
+        "codigo": "096"
+      },
+      {
+        "quadro": 197,
+        "registro": "1D",
+        "forca_antes": 48,
+        "forca_depois": 47,
+        "codigo": "096"
+      },
+      {
+        "quadro": 203,
+        "registro": "1D",
+        "forca_antes": 47,
+        "forca_depois": 46,
+        "codigo": "096"
+      },
+      {
+        "quadro": 203,
+        "registro": "1F",
+        "forca_antes": 48,
+        "forca_depois": 47,
+        "codigo": "096"
+      },
+      {
+        "quadro": 211,
+        "registro": "20",
+        "forca_antes": 48,
+        "forca_depois": 47,
+        "codigo": "096"
+      },
+      {
+        "quadro": 221,
+        "registro": "1C",
+        "forca_antes": 48,
+        "forca_depois": 47,
+        "codigo": "096"
+      },
+      {
+        "quadro": 227,
+        "registro": "20",
+        "forca_antes": 48,
+        "forca_depois": 47,
+        "codigo": "096"
+      },
+      {
+        "quadro": 239,
+        "registro": "1D",
+        "forca_antes": 48,
+        "forca_depois": 47,
+        "codigo": "096"
+      },
+      {
+        "quadro": 241,
+        "registro": "1D",
+        "forca_antes": 47,
+        "forca_depois": 46,
+        "codigo": "096"
+      },
+      {
+        "quadro": 293,
+        "registro": "1D",
+        "forca_antes": 48,
+        "forca_depois": 47,
+        "codigo": "096"
+      }
+    ],
+    "total_reducoes_positivas": 16
+  },
+  {
+    "rom": "1943h11000",
+    "arma": "00",
+    "campo_0D_enquanto_estado_02": {
+      "1": 388
+    },
+    "campo_0D_entrada_estado_02": {
+      "1": 18
+    },
+    "reducoes_positivas": [],
+    "total_reducoes_positivas": 0
+  },
+  {
+    "rom": "1943h11000",
+    "arma": "01",
+    "campo_0D_enquanto_estado_02": {
+      "1": 552
+    },
+    "campo_0D_entrada_estado_02": {
+      "1": 56
+    },
+    "reducoes_positivas": [],
+    "total_reducoes_positivas": 0
+  },
+  {
+    "rom": "1943h11000",
+    "arma": "02",
+    "campo_0D_enquanto_estado_02": {
+      "2": 912,
+      "1": 57
+    },
+    "campo_0D_entrada_estado_02": {
+      "2": 75
+    },
+    "reducoes_positivas": [
+      {
+        "quadro": 55,
+        "registro": "1C",
+        "forca_antes": 2,
+        "forca_depois": 1,
+        "codigo": "099"
+      },
+      {
+        "quadro": 73,
+        "registro": "1C",
+        "forca_antes": 2,
+        "forca_depois": 1,
+        "codigo": "099"
+      },
+      {
+        "quadro": 107,
+        "registro": "1C",
+        "forca_antes": 2,
+        "forca_depois": 1,
+        "codigo": "099"
+      },
+      {
+        "quadro": 123,
+        "registro": "20",
+        "forca_antes": 2,
+        "forca_depois": 1,
+        "codigo": "099"
+      },
+      {
+        "quadro": 141,
+        "registro": "20",
+        "forca_antes": 2,
+        "forca_depois": 1,
+        "codigo": "099"
+      },
+      {
+        "quadro": 159,
+        "registro": "20",
+        "forca_antes": 2,
+        "forca_depois": 1,
+        "codigo": "099"
+      },
+      {
+        "quadro": 195,
+        "registro": "1D",
+        "forca_antes": 2,
+        "forca_depois": 1,
+        "codigo": "099"
+      },
+      {
+        "quadro": 213,
+        "registro": "1D",
+        "forca_antes": 2,
+        "forca_depois": 1,
+        "codigo": "099"
+      },
+      {
+        "quadro": 231,
+        "registro": "1D",
+        "forca_antes": 2,
+        "forca_depois": 1,
+        "codigo": "099"
+      },
+      {
+        "quadro": 249,
+        "registro": "1D",
+        "forca_antes": 2,
+        "forca_depois": 1,
+        "codigo": "099"
+      },
+      {
+        "quadro": 265,
+        "registro": "1D",
+        "forca_antes": 2,
+        "forca_depois": 1,
+        "codigo": "099"
+      },
+      {
+        "quadro": 265,
+        "registro": "1E",
+        "forca_antes": 2,
+        "forca_depois": 1,
+        "codigo": "098"
+      },
+      {
+        "quadro": 283,
+        "registro": "1D",
+        "forca_antes": 2,
+        "forca_depois": 1,
+        "codigo": "099"
+      },
+      {
+        "quadro": 285,
+        "registro": "1F",
+        "forca_antes": 2,
+        "forca_depois": 1,
+        "codigo": "099"
+      },
+      {
+        "quadro": 285,
+        "registro": "20",
+        "forca_antes": 2,
+        "forca_depois": 1,
+        "codigo": "099"
+      },
+      {
+        "quadro": 299,
+        "registro": "1D",
+        "forca_antes": 2,
+        "forca_depois": 1,
+        "codigo": "099"
+      },
+      {
+        "quadro": 301,
+        "registro": "1E",
+        "forca_antes": 2,
+        "forca_depois": 1,
+        "codigo": "098"
+      },
+      {
+        "quadro": 303,
+        "registro": "20",
+        "forca_antes": 2,
+        "forca_depois": 1,
+        "codigo": "099"
+      }
+    ],
+    "total_reducoes_positivas": 18
+  },
+  {
+    "rom": "1943h11000",
+    "arma": "03",
+    "campo_0D_enquanto_estado_02": {
+      "2": 839,
+      "1": 48
+    },
+    "campo_0D_entrada_estado_02": {
+      "2": 75
+    },
+    "reducoes_positivas": [
+      {
+        "quadro": 53,
+        "registro": "1C",
+        "forca_antes": 2,
+        "forca_depois": 1,
+        "codigo": "09B"
+      },
+      {
+        "quadro": 71,
+        "registro": "1C",
+        "forca_antes": 2,
+        "forca_depois": 1,
+        "codigo": "09B"
+      },
+      {
+        "quadro": 121,
+        "registro": "1C",
+        "forca_antes": 2,
+        "forca_depois": 1,
+        "codigo": "09B"
+      },
+      {
+        "quadro": 121,
+        "registro": "20",
+        "forca_antes": 2,
+        "forca_depois": 1,
+        "codigo": "09B"
+      },
+      {
+        "quadro": 155,
+        "registro": "20",
+        "forca_antes": 2,
+        "forca_depois": 1,
+        "codigo": "09B"
+      },
+      {
+        "quadro": 193,
+        "registro": "1D",
+        "forca_antes": 2,
+        "forca_depois": 1,
+        "codigo": "09B"
+      },
+      {
+        "quadro": 193,
+        "registro": "20",
+        "forca_antes": 2,
+        "forca_depois": 1,
+        "codigo": "09B"
+      },
+      {
+        "quadro": 245,
+        "registro": "1E",
+        "forca_antes": 2,
+        "forca_depois": 1,
+        "codigo": "09A"
+      },
+      {
+        "quadro": 247,
+        "registro": "1C",
+        "forca_antes": 2,
+        "forca_depois": 1,
+        "codigo": "09B"
+      },
+      {
+        "quadro": 265,
+        "registro": "1D",
+        "forca_antes": 2,
+        "forca_depois": 1,
+        "codigo": "09B"
+      },
+      {
+        "quadro": 301,
+        "registro": "1D",
+        "forca_antes": 2,
+        "forca_depois": 1,
+        "codigo": "09B"
+      },
+      {
+        "quadro": 301,
+        "registro": "20",
+        "forca_antes": 2,
+        "forca_depois": 1,
+        "codigo": "09B"
+      }
+    ],
+    "total_reducoes_positivas": 12
+  },
+  {
+    "rom": "1943h11000",
+    "arma": "04",
+    "campo_0D_enquanto_estado_02": {
+      "1": 888
+    },
+    "campo_0D_entrada_estado_02": {
+      "1": 63
+    },
+    "reducoes_positivas": [],
+    "total_reducoes_positivas": 0
+  },
+  {
+    "rom": "1943h11000",
+    "arma": "08",
+    "campo_0D_enquanto_estado_02": {
+      "3": 573,
+      "2": 55,
+      "1": 2
+    },
+    "campo_0D_entrada_estado_02": {
+      "3": 18
+    },
+    "reducoes_positivas": [
+      {
+        "quadro": 87,
+        "registro": "1C",
+        "forca_antes": 3,
+        "forca_depois": 2,
+        "codigo": "095"
+      },
+      {
+        "quadro": 199,
+        "registro": "1C",
+        "forca_antes": 3,
+        "forca_depois": 2,
+        "codigo": "095"
+      },
+      {
+        "quadro": 207,
+        "registro": "1E",
+        "forca_antes": 3,
+        "forca_depois": 2,
+        "codigo": "095"
+      },
+      {
+        "quadro": 223,
+        "registro": "1D",
+        "forca_antes": 3,
+        "forca_depois": 2,
+        "codigo": "095"
+      },
+      {
+        "quadro": 235,
+        "registro": "1C",
+        "forca_antes": 3,
+        "forca_depois": 2,
+        "codigo": "095"
+      },
+      {
+        "quadro": 237,
+        "registro": "1C",
+        "forca_antes": 2,
+        "forca_depois": 1,
+        "codigo": "095"
+      },
+      {
+        "quadro": 239,
+        "registro": "1D",
+        "forca_antes": 3,
+        "forca_depois": 2,
+        "codigo": "095"
+      },
+      {
+        "quadro": 255,
+        "registro": "1D",
+        "forca_antes": 3,
+        "forca_depois": 2,
+        "codigo": "095"
+      },
+      {
+        "quadro": 267,
+        "registro": "1E",
+        "forca_antes": 3,
+        "forca_depois": 1,
+        "codigo": "095"
+      },
+      {
+        "quadro": 271,
+        "registro": "1C",
+        "forca_antes": 3,
+        "forca_depois": 2,
+        "codigo": "095"
+      },
+      {
+        "quadro": 287,
+        "registro": "1C",
+        "forca_antes": 3,
+        "forca_depois": 2,
+        "codigo": "095"
+      },
+      {
+        "quadro": 303,
+        "registro": "1C",
+        "forca_antes": 3,
+        "forca_depois": 2,
+        "codigo": "095"
+      }
+    ],
+    "total_reducoes_positivas": 12
+  },
+  {
+    "rom": "1943h11000",
+    "arma": "10",
+    "campo_0D_enquanto_estado_02": {
+      "3": 196,
+      "2": 257,
+      "1": 1
+    },
+    "campo_0D_entrada_estado_02": {
+      "3": 24,
+      "2": 24
+    },
+    "reducoes_positivas": [
+      {
+        "quadro": 101,
+        "registro": "1C",
+        "forca_antes": 3,
+        "forca_depois": 2,
+        "codigo": "096"
+      },
+      {
+        "quadro": 193,
+        "registro": "1D",
+        "forca_antes": 2,
+        "forca_depois": 1,
+        "codigo": "09F"
+      },
+      {
+        "quadro": 209,
+        "registro": "1E",
+        "forca_antes": 3,
+        "forca_depois": 2,
+        "codigo": "096"
+      },
+      {
+        "quadro": 227,
+        "registro": "1C",
+        "forca_antes": 3,
+        "forca_depois": 2,
+        "codigo": "096"
+      },
+      {
+        "quadro": 239,
+        "registro": "1C",
+        "forca_antes": 3,
+        "forca_depois": 2,
+        "codigo": "096"
+      },
+      {
+        "quadro": 257,
+        "registro": "1E",
+        "forca_antes": 3,
+        "forca_depois": 2,
+        "codigo": "096"
+      },
+      {
+        "quadro": 275,
+        "registro": "1C",
+        "forca_antes": 3,
+        "forca_depois": 2,
+        "codigo": "096"
+      },
+      {
+        "quadro": 287,
+        "registro": "1C",
+        "forca_antes": 3,
+        "forca_depois": 2,
+        "codigo": "096"
+      },
+      {
+        "quadro": 305,
+        "registro": "1D",
+        "forca_antes": 3,
+        "forca_depois": 2,
+        "codigo": "096"
+      }
+    ],
+    "total_reducoes_positivas": 9
+  },
+  {
+    "rom": "1943h11000",
+    "arma": "30",
+    "campo_0D_enquanto_estado_02": {
+      "4": 196,
+      "2": 237,
+      "3": 20,
+      "1": 1
+    },
+    "campo_0D_entrada_estado_02": {
+      "4": 24,
+      "2": 24
+    },
+    "reducoes_positivas": [
+      {
+        "quadro": 101,
+        "registro": "1C",
+        "forca_antes": 4,
+        "forca_depois": 3,
+        "codigo": "096"
+      },
+      {
+        "quadro": 193,
+        "registro": "1D",
+        "forca_antes": 2,
+        "forca_depois": 1,
+        "codigo": "09F"
+      },
+      {
+        "quadro": 209,
+        "registro": "1E",
+        "forca_antes": 4,
+        "forca_depois": 3,
+        "codigo": "096"
+      },
+      {
+        "quadro": 227,
+        "registro": "1C",
+        "forca_antes": 4,
+        "forca_depois": 3,
+        "codigo": "096"
+      },
+      {
+        "quadro": 239,
+        "registro": "1C",
+        "forca_antes": 4,
+        "forca_depois": 3,
+        "codigo": "096"
+      },
+      {
+        "quadro": 257,
+        "registro": "1E",
+        "forca_antes": 4,
+        "forca_depois": 3,
+        "codigo": "096"
+      },
+      {
+        "quadro": 275,
+        "registro": "1C",
+        "forca_antes": 4,
+        "forca_depois": 3,
+        "codigo": "096"
+      },
+      {
+        "quadro": 287,
+        "registro": "1C",
+        "forca_antes": 4,
+        "forca_depois": 3,
+        "codigo": "096"
+      },
+      {
+        "quadro": 305,
+        "registro": "1D",
+        "forca_antes": 4,
+        "forca_depois": 3,
+        "codigo": "096"
+      }
+    ],
+    "total_reducoes_positivas": 9
+  },
+  {
+    "rom": "1943h11000",
+    "arma": "50",
+    "campo_0D_enquanto_estado_02": {
+      "5": 196,
+      "2": 237,
+      "4": 20,
+      "1": 1
+    },
+    "campo_0D_entrada_estado_02": {
+      "5": 24,
+      "2": 24
+    },
+    "reducoes_positivas": [
+      {
+        "quadro": 101,
+        "registro": "1C",
+        "forca_antes": 5,
+        "forca_depois": 4,
+        "codigo": "096"
+      },
+      {
+        "quadro": 193,
+        "registro": "1D",
+        "forca_antes": 2,
+        "forca_depois": 1,
+        "codigo": "09F"
+      },
+      {
+        "quadro": 209,
+        "registro": "1E",
+        "forca_antes": 5,
+        "forca_depois": 4,
+        "codigo": "096"
+      },
+      {
+        "quadro": 227,
+        "registro": "1C",
+        "forca_antes": 5,
+        "forca_depois": 4,
+        "codigo": "096"
+      },
+      {
+        "quadro": 239,
+        "registro": "1C",
+        "forca_antes": 5,
+        "forca_depois": 4,
+        "codigo": "096"
+      },
+      {
+        "quadro": 257,
+        "registro": "1E",
+        "forca_antes": 5,
+        "forca_depois": 4,
+        "codigo": "096"
+      },
+      {
+        "quadro": 275,
+        "registro": "1C",
+        "forca_antes": 5,
+        "forca_depois": 4,
+        "codigo": "096"
+      },
+      {
+        "quadro": 287,
+        "registro": "1C",
+        "forca_antes": 5,
+        "forca_depois": 4,
+        "codigo": "096"
+      },
+      {
+        "quadro": 305,
+        "registro": "1D",
+        "forca_antes": 5,
+        "forca_depois": 4,
+        "codigo": "096"
+      }
+    ],
+    "total_reducoes_positivas": 9
+  }
+]

@@ -1,0 +1,872 @@
+[
+  {
+    "id": "M006",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000/M006.sta",
+    "target": 62912,
+    "reference": 23402,
+    "hp": 1,
+    "routine": "alvo",
+    "label": "Visual: Aviao pequeno - serie grafica 200",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h11000/M006"
+  },
+  {
+    "id": "M008",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000/M008.sta",
+    "target": 63136,
+    "reference": 23402,
+    "hp": 1,
+    "routine": "alvo",
+    "label": "Visual: Aviao pequeno - serie grafica 220",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h11000/M008"
+  },
+  {
+    "id": "M010",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000/M010.sta",
+    "target": 63424,
+    "reference": 24502,
+    "hp": 6,
+    "routine": "alvo_multisprite",
+    "label": "Visual: Aviao maior - peca grafica 380",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h11000/M010"
+  },
+  {
+    "id": "M011",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000/M011.sta",
+    "target": 62912,
+    "reference": 23402,
+    "hp": 1,
+    "routine": "alvo",
+    "label": "Visual: Aviao pequeno - serie grafica 220",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h11000/M011"
+  },
+  {
+    "id": "M012",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000/M012.sta",
+    "target": 64064,
+    "reference": 40781,
+    "hp": 12,
+    "routine": "alvo_grande",
+    "label": "Visual: Aviao maior - peca grafica 666",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h11000/M012"
+  },
+  {
+    "id": "M015",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000/M015.sta",
+    "target": 63040,
+    "reference": 30007,
+    "hp": 11,
+    "routine": "alvo",
+    "label": "Visual: Controle ou objeto ainda sem associacao visual",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h11000/M015"
+  },
+  {
+    "id": "M016",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000/M016.sta",
+    "target": 63104,
+    "reference": 23402,
+    "hp": 1,
+    "routine": "alvo",
+    "label": "Visual: Aviao pequeno - serie grafica 200",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h11000/M016"
+  },
+  {
+    "id": "M017",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000/M017.sta",
+    "target": 64960,
+    "reference": 23402,
+    "hp": 4,
+    "routine": "alvo",
+    "label": "Visual: Canhao ou torre - serie grafica 450",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h11000/M017"
+  },
+  {
+    "id": "M018",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000/M018.sta",
+    "target": 63104,
+    "reference": 28930,
+    "hp": 11,
+    "routine": "alvo",
+    "label": "Visual: Controle ou objeto ainda sem associacao visual",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h11000/M018"
+  },
+  {
+    "id": "M019",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000/M019.sta",
+    "target": 64192,
+    "reference": 24640,
+    "hp": 15,
+    "routine": "alvo_multisprite",
+    "label": "Visual: Canhao ou torre - serie grafica 420",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h11000/M019"
+  },
+  {
+    "id": "M021",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000/M021.sta",
+    "target": 64960,
+    "reference": 23540,
+    "hp": 4,
+    "routine": "alvo",
+    "label": "Visual: Canhao ou torre - serie grafica 440",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h11000/M021"
+  },
+  {
+    "id": "M023",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000/M023.sta",
+    "target": 63424,
+    "reference": 34715,
+    "hp": 64,
+    "routine": "alvo_multisprite",
+    "label": "Visual: Base ou componente de torre - grafico 760",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h11000/M023"
+  },
+  {
+    "id": "M024",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000/M024.sta",
+    "target": 63424,
+    "reference": 24502,
+    "hp": 6,
+    "routine": "alvo_multisprite",
+    "label": "Visual: Aviao maior - peca grafica 304",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h11000/M024"
+  },
+  {
+    "id": "M025",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000/M025.sta",
+    "target": 62912,
+    "reference": 23402,
+    "hp": 1,
+    "routine": "alvo",
+    "label": "Visual: Aviao pequeno - serie grafica 220",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h11000/M025"
+  },
+  {
+    "id": "M026",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000/M026.sta",
+    "target": 62976,
+    "reference": 23402,
+    "hp": 1,
+    "routine": "alvo",
+    "label": "Visual: Aviao pequeno - serie grafica 750",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h11000/M026"
+  },
+  {
+    "id": "M027",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000/M027.sta",
+    "target": 63200,
+    "reference": 23402,
+    "hp": 1,
+    "routine": "alvo",
+    "label": "Visual: Aviao pequeno - serie grafica 750",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h11000/M027"
+  },
+  {
+    "id": "M028",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000/M028.sta",
+    "target": 63296,
+    "reference": 23402,
+    "hp": 1,
+    "routine": "alvo",
+    "label": "Visual: Aviao pequeno - serie grafica 240",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h11000/M028"
+  },
+  {
+    "id": "M029",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000/M029.sta",
+    "target": 63104,
+    "reference": 23402,
+    "hp": 1,
+    "routine": "alvo",
+    "label": "Visual: Aviao pequeno - serie grafica 750",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h11000/M029"
+  },
+  {
+    "id": "M030",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000/M030.sta",
+    "target": 63264,
+    "reference": 23402,
+    "hp": 1,
+    "routine": "alvo",
+    "label": "Visual: Aviao pequeno - serie grafica 750",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h11000/M030"
+  },
+  {
+    "id": "M034",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000/M034.sta",
+    "target": 62912,
+    "reference": 30663,
+    "hp": 10,
+    "routine": "alvo",
+    "label": "Visual: Controle ou objeto ainda sem associacao visual",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h11000/M034"
+  },
+  {
+    "id": "M035",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000/M035.sta",
+    "target": 62912,
+    "reference": 23402,
+    "hp": 1,
+    "routine": "alvo",
+    "label": "Visual: Aviao pequeno - serie grafica 7C0",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h11000/M035"
+  },
+  {
+    "id": "M036",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000/M036.sta",
+    "target": 63424,
+    "reference": 24502,
+    "hp": 5,
+    "routine": "alvo_multisprite",
+    "label": "Visual: Aviao maior - peca grafica 320",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h11000/M036"
+  },
+  {
+    "id": "M037",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000/M037.sta",
+    "target": 64960,
+    "reference": 23402,
+    "hp": 6,
+    "routine": "alvo",
+    "label": "Visual: Canhao ou torre - serie grafica 4E0",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h11000/M037"
+  },
+  {
+    "id": "M038",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000/M038.sta",
+    "target": 65056,
+    "reference": 23402,
+    "hp": 4,
+    "routine": "alvo",
+    "label": "Visual: Canhao ou torre - serie grafica 460",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h11000/M038"
+  },
+  {
+    "id": "M039",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000/M039.sta",
+    "target": 64960,
+    "reference": 23540,
+    "hp": 4,
+    "routine": "alvo",
+    "label": "Visual: Canhao ou torre - serie grafica 460",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h11000/M039"
+  },
+  {
+    "id": "M040",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000/M040.sta",
+    "target": 64192,
+    "reference": 24502,
+    "hp": 24,
+    "routine": "alvo_multisprite",
+    "label": "Visual: Plataforma de embarcacao - grafico 742",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h11000/M040"
+  },
+  {
+    "id": "M041",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000/M041.sta",
+    "target": 62912,
+    "reference": 23402,
+    "hp": 1,
+    "routine": "alvo",
+    "label": "Visual: A identificar",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h11000/M041"
+  },
+  {
+    "id": "M042",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000/M042.sta",
+    "target": 65088,
+    "reference": 23540,
+    "hp": 10,
+    "routine": "alvo",
+    "label": "Visual: Canhao ou torre - serie grafica 480",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h11000/M042"
+  },
+  {
+    "id": "M043",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000/M043.sta",
+    "target": 65216,
+    "reference": 23540,
+    "hp": 8,
+    "routine": "alvo",
+    "label": "Visual: Canhao ou torre - serie grafica 470",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h11000/M043"
+  },
+  {
+    "id": "M044",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000/M044.sta",
+    "target": 63424,
+    "reference": 35133,
+    "hp": 64,
+    "routine": "alvo_multisprite",
+    "label": "Visual: Base ou componente de torre - grafico 772",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h11000/M044"
+  },
+  {
+    "id": "M045",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000/M045.sta",
+    "target": 63008,
+    "reference": 23402,
+    "hp": 1,
+    "routine": "alvo",
+    "label": "Visual: Aviao pequeno - serie grafica 240",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h11000/M045"
+  },
+  {
+    "id": "M046",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000/M046.sta",
+    "target": 63040,
+    "reference": 23402,
+    "hp": 1,
+    "routine": "alvo",
+    "label": "Visual: Aviao pequeno - serie grafica 240",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h11000/M046"
+  },
+  {
+    "id": "M047",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000/M047.sta",
+    "target": 62944,
+    "reference": 23402,
+    "hp": 1,
+    "routine": "alvo",
+    "label": "Visual: Aviao pequeno - serie grafica 280",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h11000/M047"
+  },
+  {
+    "id": "M048",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000/M048.sta",
+    "target": 63104,
+    "reference": 30316,
+    "hp": 1,
+    "routine": "alvo",
+    "label": "Visual: A identificar",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h11000/M048"
+  },
+  {
+    "id": "M049",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000/M049.sta",
+    "target": 64064,
+    "reference": 42919,
+    "hp": 12,
+    "routine": "alvo_grande",
+    "label": "Visual: Peca de aviao - serie 1A0",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h11000/M049"
+  },
+  {
+    "id": "M050",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000/M050.sta",
+    "target": 64576,
+    "reference": 42919,
+    "hp": 12,
+    "routine": "alvo_grande",
+    "label": "Visual: Peca de aviao - serie 1E0",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h11000/M050"
+  },
+  {
+    "id": "M053",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000/M053.sta",
+    "target": 65056,
+    "reference": 44145,
+    "hp": 72,
+    "routine": "alvo",
+    "label": "Visual: Controle ou objeto ainda sem associacao visual",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h11000/M053"
+  },
+  {
+    "id": "M054",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000/M054.sta",
+    "target": 65088,
+    "reference": 23402,
+    "hp": 1,
+    "routine": "alvo",
+    "label": "Visual: Aviao pequeno - serie grafica 290",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h11000/M054"
+  },
+  {
+    "id": "M058",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000/M058.sta",
+    "target": 62976,
+    "reference": 23402,
+    "hp": 1,
+    "routine": "alvo",
+    "label": "Visual: Aviao pequeno - serie grafica 280",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h11000/M058"
+  },
+  {
+    "id": "M059",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000/M059.sta",
+    "target": 64192,
+    "reference": 24640,
+    "hp": 16,
+    "routine": "alvo_multisprite",
+    "label": "Visual: Canhao ou torre - serie grafica 4C0",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h11000/M059"
+  },
+  {
+    "id": "M060",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000/M060.sta",
+    "target": 64320,
+    "reference": 24640,
+    "hp": 20,
+    "routine": "alvo_multisprite",
+    "label": "Visual: Canhao ou torre - serie grafica 720",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h11000/M060"
+  },
+  {
+    "id": "M061",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000/M061.sta",
+    "target": 65024,
+    "reference": 23540,
+    "hp": 6,
+    "routine": "alvo",
+    "label": "Visual: Canhao ou torre - serie grafica 490",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h11000/M061"
+  },
+  {
+    "id": "M062",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000/M062.sta",
+    "target": 63424,
+    "reference": 35543,
+    "hp": 64,
+    "routine": "alvo_multisprite",
+    "label": "Visual: Base ou componente de torre - grafico 762",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h11000/M062"
+  },
+  {
+    "id": "M063",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000/M063.sta",
+    "target": 62976,
+    "reference": 23402,
+    "hp": 1,
+    "routine": "alvo",
+    "label": "Visual: Aviao pequeno - serie grafica 260",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h11000/M063"
+  },
+  {
+    "id": "M064",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000/M064.sta",
+    "target": 63072,
+    "reference": 23402,
+    "hp": 1,
+    "routine": "alvo",
+    "label": "Visual: Aviao pequeno - serie grafica 260",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h11000/M064"
+  },
+  {
+    "id": "M065",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000/M065.sta",
+    "target": 63104,
+    "reference": 23402,
+    "hp": 1,
+    "routine": "alvo",
+    "label": "Visual: Aviao pequeno - serie grafica 260",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h11000/M065"
+  },
+  {
+    "id": "M066",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000/M066.sta",
+    "target": 63104,
+    "reference": 23402,
+    "hp": 1,
+    "routine": "alvo",
+    "label": "Visual: Aviao pequeno - serie grafica 260",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h11000/M066"
+  },
+  {
+    "id": "M067",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000/M067.sta",
+    "target": 63424,
+    "reference": 24502,
+    "hp": 2,
+    "routine": "alvo_multisprite",
+    "label": "Visual: Aviao maior - peca grafica 340",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h11000/M067"
+  },
+  {
+    "id": "M068",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000/M068.sta",
+    "target": 63808,
+    "reference": 24502,
+    "hp": 2,
+    "routine": "alvo_multisprite",
+    "label": "Visual: Aviao maior - peca grafica 340",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h11000/M068"
+  },
+  {
+    "id": "M069",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000/M069.sta",
+    "target": 63264,
+    "reference": 23402,
+    "hp": 1,
+    "routine": "alvo",
+    "label": "Visual: Aviao pequeno - serie grafica 200",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h11000/M069"
+  },
+  {
+    "id": "M070",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000/M070.sta",
+    "target": 63424,
+    "reference": 24502,
+    "hp": 2,
+    "routine": "alvo_multisprite",
+    "label": "Visual: Aviao maior - peca grafica 350",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h11000/M070"
+  },
+  {
+    "id": "M071",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000/M071.sta",
+    "target": 64064,
+    "reference": 37145,
+    "hp": 64,
+    "routine": "alvo_multisprite",
+    "label": "Visual: Base ou componente de torre - grafico 774",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h11000/M071"
+  },
+  {
+    "id": "M072",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000/M072.sta",
+    "target": 64576,
+    "reference": 42130,
+    "hp": 24,
+    "routine": "alvo_grande",
+    "label": "Visual: Aviao maior - peca grafica 602",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h11000/M072"
+  },
+  {
+    "id": "M073",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000/M073.sta",
+    "target": 64064,
+    "reference": 42130,
+    "hp": 24,
+    "routine": "alvo_grande",
+    "label": "Visual: Aviao maior - peca grafica 642",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h11000/M073"
+  },
+  {
+    "id": "M074",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000/M074.sta",
+    "target": 63040,
+    "reference": 23402,
+    "hp": 1,
+    "routine": "alvo",
+    "label": "Visual: Aviao pequeno - serie grafica 260",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h11000/M074"
+  },
+  {
+    "id": "M075",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000/M075.sta",
+    "target": 63072,
+    "reference": 23402,
+    "hp": 1,
+    "routine": "alvo",
+    "label": "Visual: Aviao pequeno - serie grafica 260",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h11000/M075"
+  },
+  {
+    "id": "M076",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000/M076.sta",
+    "target": 63040,
+    "reference": 23402,
+    "hp": 1,
+    "routine": "alvo",
+    "label": "Visual: Aviao pequeno - serie grafica 260",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h11000/M076"
+  },
+  {
+    "id": "M077",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000/M077.sta",
+    "target": 63168,
+    "reference": 23402,
+    "hp": 1,
+    "routine": "alvo",
+    "label": "Visual: Aviao pequeno - serie grafica 260",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h11000/M077"
+  },
+  {
+    "id": "M078",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000/M078.sta",
+    "target": 63936,
+    "reference": 24502,
+    "hp": 6,
+    "routine": "alvo_multisprite",
+    "label": "Visual: Aviao maior - peca grafica 2C0",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h11000/M078"
+  },
+  {
+    "id": "M079",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000/M079.sta",
+    "target": 64064,
+    "reference": 24502,
+    "hp": 6,
+    "routine": "alvo_multisprite",
+    "label": "Visual: Aviao maior - peca grafica 2C0",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h11000/M079"
+  },
+  {
+    "id": "M080",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000/M080.sta",
+    "target": 63040,
+    "reference": 23402,
+    "hp": 1,
+    "routine": "alvo",
+    "label": "Visual: Aviao pequeno - serie grafica 260",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h11000/M080"
+  },
+  {
+    "id": "M081",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000/M081.sta",
+    "target": 62976,
+    "reference": 23402,
+    "hp": 1,
+    "routine": "alvo",
+    "label": "Visual: Aviao pequeno - serie grafica 260",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h11000/M081"
+  },
+  {
+    "id": "M082",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000/M082.sta",
+    "target": 63008,
+    "reference": 23402,
+    "hp": 1,
+    "routine": "alvo",
+    "label": "Visual: Aviao pequeno - serie grafica 260",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h11000/M082"
+  },
+  {
+    "id": "M083",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000/M083.sta",
+    "target": 63200,
+    "reference": 23402,
+    "hp": 1,
+    "routine": "alvo",
+    "label": "Visual: Aviao pequeno - serie grafica 260",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h11000/M083"
+  },
+  {
+    "id": "M084",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000/M084.sta",
+    "target": 63680,
+    "reference": 24502,
+    "hp": 6,
+    "routine": "alvo_multisprite",
+    "label": "Visual: Aviao maior - peca grafica 2C0",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h11000/M084"
+  },
+  {
+    "id": "M085",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000/M085.sta",
+    "target": 63808,
+    "reference": 24502,
+    "hp": 6,
+    "routine": "alvo_multisprite",
+    "label": "Visual: Aviao maior - peca grafica 2C0",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h11000/M085"
+  },
+  {
+    "id": "M086",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000/M086.sta",
+    "target": 63936,
+    "reference": 24502,
+    "hp": 6,
+    "routine": "alvo_multisprite",
+    "label": "Visual: Aviao maior - peca grafica 2C0",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h11000/M086"
+  },
+  {
+    "id": "M088",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000/M088.sta",
+    "target": 64192,
+    "reference": 24502,
+    "hp": 12,
+    "routine": "alvo_multisprite",
+    "label": "Visual: Canhao ou torre - serie grafica 560",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h11000/M088"
+  },
+  {
+    "id": "M089",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000/M089.sta",
+    "target": 63104,
+    "reference": 23402,
+    "hp": 1,
+    "routine": "alvo",
+    "label": "Visual: Aviao pequeno - serie grafica 7F0",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h11000/M089"
+  },
+  {
+    "id": "M090",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000/M090.sta",
+    "target": 63424,
+    "reference": 35943,
+    "hp": 64,
+    "routine": "alvo_multisprite",
+    "label": "Visual: Base ou componente de torre - grafico 764",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h11000/M090"
+  },
+  {
+    "id": "M091",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000/M091.sta",
+    "target": 63040,
+    "reference": 23402,
+    "hp": 1,
+    "routine": "alvo",
+    "label": "Visual: Aviao pequeno - serie grafica 240",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h11000/M091"
+  },
+  {
+    "id": "M092",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000/M092.sta",
+    "target": 63072,
+    "reference": 23402,
+    "hp": 1,
+    "routine": "alvo",
+    "label": "Visual: Aviao pequeno - serie grafica 240",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h11000/M092"
+  },
+  {
+    "id": "M093",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000/M093.sta",
+    "target": 62912,
+    "reference": 23402,
+    "hp": 1,
+    "routine": "alvo",
+    "label": "Visual: Aviao pequeno - serie grafica 250",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h11000/M093"
+  },
+  {
+    "id": "M094",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000/M094.sta",
+    "target": 62912,
+    "reference": 23402,
+    "hp": 1,
+    "routine": "alvo",
+    "label": "Visual: Aviao pequeno - serie grafica 7E0",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h11000/M094"
+  },
+  {
+    "id": "M095",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000/M095.sta",
+    "target": 62976,
+    "reference": 23402,
+    "hp": 1,
+    "routine": "alvo",
+    "label": "Visual: Aviao pequeno - serie grafica 7E0",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h11000/M095"
+  },
+  {
+    "id": "M096",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000/M096.sta",
+    "target": 62912,
+    "reference": 23402,
+    "hp": 1,
+    "routine": "alvo",
+    "label": "Visual: Aviao pequeno - serie grafica 2A0",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h11000/M096"
+  },
+  {
+    "id": "M098",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000/M098.sta",
+    "target": 63424,
+    "reference": 24502,
+    "hp": 5,
+    "routine": "alvo_multisprite",
+    "label": "Visual: Aviao maior - peca grafica 3D0",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h11000/M098"
+  },
+  {
+    "id": "M099",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000/M099.sta",
+    "target": 63552,
+    "reference": 24502,
+    "hp": 5,
+    "routine": "alvo_multisprite",
+    "label": "Visual: Aviao maior - peca grafica 3F0",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h11000/M099"
+  },
+  {
+    "id": "M100",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000/M100.sta",
+    "target": 64960,
+    "reference": 23402,
+    "hp": 1,
+    "routine": "alvo",
+    "label": "Visual: Aviao pequeno - serie grafica 2A0",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h11000/M100"
+  },
+  {
+    "id": "M101",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000/M101.sta",
+    "target": 64192,
+    "reference": 24640,
+    "hp": 27,
+    "routine": "alvo_multisprite",
+    "label": "Visual: Canhao ou torre - serie grafica 520",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h11000/M101"
+  },
+  {
+    "id": "M102",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000/M102.sta",
+    "target": 63424,
+    "reference": 36348,
+    "hp": 112,
+    "routine": "alvo_multisprite",
+    "label": "Visual: Base ou componente de torre - grafico 766",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h11000/M102"
+  },
+  {
+    "id": "M103",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000/M103.sta",
+    "target": 63072,
+    "reference": 23402,
+    "hp": 1,
+    "routine": "alvo",
+    "label": "Visual: Aviao pequeno - serie grafica 2B0",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h11000/M103"
+  },
+  {
+    "id": "M104",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000/M104.sta",
+    "target": 64192,
+    "reference": 24640,
+    "hp": 20,
+    "routine": "alvo_multisprite",
+    "label": "Visual: Componente de torre - grafico 5E0",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h11000/M104"
+  },
+  {
+    "id": "M106",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000/M106.sta",
+    "target": 64320,
+    "reference": 24640,
+    "hp": 13,
+    "routine": "alvo_multisprite",
+    "label": "Visual: Canhao ou torre - serie grafica 5A0",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h11000/M106"
+  },
+  {
+    "id": "M107",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000/M107.sta",
+    "target": 64448,
+    "reference": 24640,
+    "hp": 8,
+    "routine": "alvo_multisprite",
+    "label": "Visual: Canhao ou torre - serie grafica 570",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h11000/M107"
+  },
+  {
+    "id": "M109",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000/M109.sta",
+    "target": 62912,
+    "reference": 23402,
+    "hp": 4,
+    "routine": "alvo",
+    "label": "Visual: A identificar",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h11000/M109"
+  },
+  {
+    "id": "N003",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000_destruicao/novos/L_-1_7B6C_5B6A.sta",
+    "target": 62912,
+    "reference": 23402,
+    "hp": 2,
+    "routine": "alvo",
+    "label": "Novo perfil: L_-1_7B6C_5B6A",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h11000/N003"
+  }
+]

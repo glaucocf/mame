@@ -1,0 +1,8 @@
+rom=1943h10111
+quadro=45
+estado=ok
+alvo=FB40
+hp=13
+camadas=40
+criacao_bloqueada=6
+impactos=0

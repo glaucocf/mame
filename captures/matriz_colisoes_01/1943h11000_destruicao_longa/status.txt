@@ -1,0 +1,5 @@
+indice=87
+total=86
+caso=
+quadro=0
+estado=concluido

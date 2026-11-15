@@ -1,0 +1,7 @@
+quadro,evento,endereco,antes,depois,pc,ix,iy
+0,alvo_pronto,F680,16,1,00CB,F200,F280
+121,movimento_livre,F680,176,105,00D2,F200,F280
+181,alvo_pronto,F680,16,1,00CB,F200,F280
+192,impacto_natural,F68B,1,0,57FC,F680,F380
+227,alvo_retirado,F688,16,0,5AD7,F680,F300
+227,criacao_propria_fora_do_pool_de_tiros_bloqueada,F5C8,0,16,719A,F680,F5C0

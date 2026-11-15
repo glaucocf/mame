@@ -1,0 +1,8 @@
+rom=1943h11000
+quadro=45
+estado=ok
+alvo=FDC0
+hp=1
+camadas=40
+criacao_bloqueada=0
+impactos=0

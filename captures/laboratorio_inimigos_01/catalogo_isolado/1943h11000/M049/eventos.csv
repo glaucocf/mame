@@ -1,0 +1,14 @@
+quadro,evento,endereco,antes,depois,pc,ix,iy
+0,alvo_pronto,FA40,64,12,00C5,F200,F280
+48,projetil_emitido_pelo_alvo,F000,0,1,38F6,FA40,F000
+48,projetil_emitido_pelo_alvo,F020,0,1,38F6,FA40,F020
+48,projetil_emitido_pelo_alvo,F040,0,1,38F6,FA40,F040
+121,movimento_livre,FA40,176,113,00C7,F200,F280
+144,projetil_emitido_pelo_alvo,F000,0,1,38F6,FA40,F000
+144,projetil_emitido_pelo_alvo,F020,0,1,38F6,FA40,F020
+144,projetil_emitido_pelo_alvo,F040,0,1,38F6,FA40,F040
+181,alvo_pronto,FA40,64,12,00C5,F200,F280
+191,impacto_natural,FA4B,12,7,6621,FA40,F380
+193,impacto_natural,FA4B,7,5,6621,FA40,F3A0
+197,impacto_natural,FA4B,5,0,660E,FA40,F3C0
+257,alvo_retirado,FA48,64,0,6724,FA40,FB40

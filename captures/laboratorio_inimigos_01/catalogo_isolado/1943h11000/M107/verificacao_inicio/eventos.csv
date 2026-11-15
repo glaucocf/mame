@@ -1,0 +1,4 @@
+quadro,evento,endereco,antes,depois,pc,ix,iy
+0,carregar,FBC0,0,1,015F,FFFF,FFFF
+0,alvo_pronto,FBC0,33,8,5FBC,FCC0,F4A0
+23,projetil_do_alvo,F000,0,1,3F72,FBC0,F000

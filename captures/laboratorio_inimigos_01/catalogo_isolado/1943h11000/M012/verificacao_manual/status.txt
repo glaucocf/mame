@@ -1,0 +1,8 @@
+rom=1943h11000
+quadro=720
+estado=ok
+alvo=FA40
+hp=12
+camadas=40
+criacao_bloqueada=26
+impactos=4

@@ -1,0 +1,5 @@
+indice=3
+total=2
+caso=
+quadro=0
+estado=concluido

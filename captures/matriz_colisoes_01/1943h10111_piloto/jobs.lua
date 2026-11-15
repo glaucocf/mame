@@ -1,0 +1,5 @@
+return {
+{id="M005",template=35060,bank=0,reference=23129,checkpoint="C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/1943h10111/catalogacao_01/checkpoint_f0001200.sta",baseframe=1200,firstframe=1240,output="C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h10111_piloto/M005"},
+{id="M008",template=14623,bank=-1,reference=15810,checkpoint="C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/1943h10111/catalogacao_01/checkpoint_f0001800.sta",baseframe=1800,firstframe=1998,output="C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h10111_piloto/M008"},
+{id="M018",template=32811,bank=6,reference=24377,checkpoint="C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/1943h10111/catalogacao_01/checkpoint_f0007800.sta",baseframe=7800,firstframe=7861,output="C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h10111_piloto/M018"}
+}

@@ -1,0 +1,224 @@
+{
+  "gifs": 25,
+  "comparativos": 9,
+  "individuais": 16,
+  "quadros_originais_por_teste": 420,
+  "quadros_gif": 210,
+  "duracao_ms": 7040,
+  "quadros_conferidos_pixel_a_pixel_MAME": 80,
+  "projecao_tiros": [
+    {
+      "rom": "1943h10111",
+      "arma": "00",
+      "maximo_pecas_tiros_visiveis": 4,
+      "quadro_amostra": 238,
+      "graficos_paletas_tiros": [
+        "000/p9",
+        "03F/p9",
+        "0A5/p9",
+        "0A6/p9",
+        "0A7/p9"
+      ]
+    },
+    {
+      "rom": "1943h10111",
+      "arma": "01",
+      "maximo_pecas_tiros_visiveis": 8,
+      "quadro_amostra": 46,
+      "graficos_paletas_tiros": [
+        "000/p9",
+        "094/p9",
+        "0A5/p9",
+        "0A6/p9",
+        "0A7/p9"
+      ]
+    },
+    {
+      "rom": "1943h10111",
+      "arma": "02",
+      "maximo_pecas_tiros_visiveis": 5,
+      "quadro_amostra": 34,
+      "graficos_paletas_tiros": [
+        "000/p9",
+        "098/p9",
+        "099/p9",
+        "0A5/p9",
+        "0A6/p9",
+        "0A7/p9"
+      ]
+    },
+    {
+      "rom": "1943h10111",
+      "arma": "03",
+      "maximo_pecas_tiros_visiveis": 5,
+      "quadro_amostra": 34,
+      "graficos_paletas_tiros": [
+        "000/p9",
+        "09A/p9",
+        "09B/p9",
+        "0A5/p9",
+        "0A6/p9",
+        "0A7/p9"
+      ]
+    },
+    {
+      "rom": "1943h10111",
+      "arma": "04",
+      "maximo_pecas_tiros_visiveis": 9,
+      "quadro_amostra": 220,
+      "graficos_paletas_tiros": [
+        "000/p9",
+        "091/p9",
+        "092/p9",
+        "093/p9",
+        "0A5/p9",
+        "0A6/p9",
+        "0A7/p9"
+      ]
+    },
+    {
+      "rom": "1943h10111",
+      "arma": "08",
+      "maximo_pecas_tiros_visiveis": 4,
+      "quadro_amostra": 214,
+      "graficos_paletas_tiros": [
+        "000/p9",
+        "095/p9",
+        "0A5/p9",
+        "0A6/p9",
+        "0A7/p9"
+      ]
+    },
+    {
+      "rom": "1943h10111",
+      "arma": "10",
+      "maximo_pecas_tiros_visiveis": 6,
+      "quadro_amostra": 190,
+      "graficos_paletas_tiros": [
+        "000/p9",
+        "096/p9"
+      ]
+    },
+    {
+      "rom": "1943h11000",
+      "arma": "00",
+      "maximo_pecas_tiros_visiveis": 4,
+      "quadro_amostra": 214,
+      "graficos_paletas_tiros": [
+        "000/p9",
+        "03F/p9",
+        "0A5/p9",
+        "0A6/p9",
+        "0A7/p9"
+      ]
+    },
+    {
+      "rom": "1943h11000",
+      "arma": "01",
+      "maximo_pecas_tiros_visiveis": 6,
+      "quadro_amostra": 42,
+      "graficos_paletas_tiros": [
+        "000/p9",
+        "094/p9",
+        "0A5/p9",
+        "0A6/p9",
+        "0A7/p9"
+      ]
+    },
+    {
+      "rom": "1943h11000",
+      "arma": "02",
+      "maximo_pecas_tiros_visiveis": 5,
+      "quadro_amostra": 34,
+      "graficos_paletas_tiros": [
+        "000/p9",
+        "098/p9",
+        "099/p9",
+        "0A5/p9",
+        "0A6/p9",
+        "0A7/p9"
+      ]
+    },
+    {
+      "rom": "1943h11000",
+      "arma": "03",
+      "maximo_pecas_tiros_visiveis": 5,
+      "quadro_amostra": 34,
+      "graficos_paletas_tiros": [
+        "000/p9",
+        "09A/p9",
+        "09B/p9",
+        "0A5/p9",
+        "0A6/p9",
+        "0A7/p9"
+      ]
+    },
+    {
+      "rom": "1943h11000",
+      "arma": "04",
+      "maximo_pecas_tiros_visiveis": 9,
+      "quadro_amostra": 214,
+      "graficos_paletas_tiros": [
+        "000/p9",
+        "091/p9",
+        "092/p9",
+        "093/p9",
+        "0A5/p9",
+        "0A6/p9",
+        "0A7/p9"
+      ]
+    },
+    {
+      "rom": "1943h11000",
+      "arma": "08",
+      "maximo_pecas_tiros_visiveis": 3,
+      "quadro_amostra": 50,
+      "graficos_paletas_tiros": [
+        "000/p9",
+        "095/p9"
+      ]
+    },
+    {
+      "rom": "1943h11000",
+      "arma": "10",
+      "maximo_pecas_tiros_visiveis": 5,
+      "quadro_amostra": 238,
+      "graficos_paletas_tiros": [
+        "000/p9",
+        "096/p9",
+        "09F/p9",
+        "0A5/p9",
+        "0A6/p9",
+        "0A7/p9"
+      ]
+    },
+    {
+      "rom": "1943h11000",
+      "arma": "30",
+      "maximo_pecas_tiros_visiveis": 5,
+      "quadro_amostra": 238,
+      "graficos_paletas_tiros": [
+        "000/p7",
+        "096/p7",
+        "09F/p7",
+        "0A5/p7",
+        "0A6/p7",
+        "0A7/p7"
+      ]
+    },
+    {
+      "rom": "1943h11000",
+      "arma": "50",
+      "maximo_pecas_tiros_visiveis": 5,
+      "quadro_amostra": 238,
+      "graficos_paletas_tiros": [
+        "000/pC",
+        "096/pC",
+        "09F/pC",
+        "0A5/pC",
+        "0A6/pC",
+        "0A7/pC"
+      ]
+    }
+  ]
+}

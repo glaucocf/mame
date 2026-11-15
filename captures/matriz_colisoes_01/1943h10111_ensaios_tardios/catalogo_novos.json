@@ -1,0 +1,16 @@
+[
+  {
+    "chave": "L_-1_38A7_6641",
+    "caso": "M022_arma_10",
+    "quadro": "204",
+    "endereco": "FC40",
+    "referencia": "6641",
+    "flags": "04",
+    "tipo": "00",
+    "resistencia": "32",
+    "estado": "40",
+    "arquivo": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h10111_destruicao_longa/novos/L_-1_38A7_6641.sta",
+    "bytes": "000091BF00000000400400200000000000000000000000070000000041664166",
+    "modelo": "T001"
+  }
+]

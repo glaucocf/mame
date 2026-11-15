@@ -1,0 +1,3 @@
+return {
+{id="N003_arma_50",model="N003",mode="arma",weapon=80,checkpoint="C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000_destruicao/novos/L_-1_7B6C_5B6A.sta",target=62912,reference=23402,output="C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000_destruicao_novos/N003_arma_50"}
+}

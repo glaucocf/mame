@@ -1,0 +1,2 @@
+caso,modelo,modo,arma,resultado,quadros,alvo,tiro,flags_iniciais,tipo,resistencia_inicial,resistencia_final,forca_inicial,forca_final,estado_tiro_final,energia_inicial,energia_apos_dano,invuln_final,flag_jogador_07,leituras_flags,aproximacoes,pc_primeiro_evento,rotina,referencia_inicial,referencia_esperada,energia_antes_dano,dano_por_contato
+N003_arma_50,N003,arma,50,destruido_observado,189,F5C0,F380,02,40,2,0,5,3,02,64,64,2,0,175,1,57FC,alvo,5B6A,5B6A,64,0

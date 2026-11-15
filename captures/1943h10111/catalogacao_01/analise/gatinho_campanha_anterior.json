@@ -1,0 +1,33 @@
+{
+  "rom": "1943h10111",
+  "quadros": 300000,
+  "ocorrencias_grafico_gatinho": [
+    {
+      "primeiro_quadro": 162583,
+      "ultimo_quadro": 163222,
+      "registro": "34",
+      "fase_id": 2,
+      "x": 255,
+      "y": 128,
+      "arma": "04"
+    },
+    {
+      "primeiro_quadro": 172804,
+      "ultimo_quadro": 173443,
+      "registro": "34",
+      "fase_id": 2,
+      "x": 255,
+      "y": 128,
+      "arma": "04"
+    },
+    {
+      "primeiro_quadro": 288642,
+      "ultimo_quadro": 289017,
+      "registro": "34",
+      "fase_id": 2,
+      "x": 255,
+      "y": 128,
+      "arma": "04"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+quadro,evento,endereco,antes,depois,pc,ix,iy
+0,carregar,F5C0,0,1,015F,FFFF,FFFF
+0,alvo_pronto,F5C0,16,1,00CB,F200,F280
+121,movimento_livre,F5C0,176,105,00D1,F200,F280
+181,recriar_automatico,F5C0,0,2,00D3,F200,F280
+181,alvo_pronto,F5C0,16,1,00CB,F200,F280
+209,hp_reduzido,F5CB,1,0,57DD,F5C0,F380
+244,alvo_retirado,F5C8,16,0,5AD7,F5C0,F300
+360,recriar_automatico,F5C0,0,3,00BA,F200,F280
+360,alvo_pronto,F5C0,16,1,00CB,F200,F280

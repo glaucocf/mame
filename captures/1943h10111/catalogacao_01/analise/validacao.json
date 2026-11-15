@@ -1,0 +1,23 @@
+{
+  "rom": "1943h10111",
+  "quadros": 224577,
+  "imagens": 56159,
+  "dma": 224575,
+  "dma_ultimo_quadro": 224576,
+  "fases_1_a_16": true,
+  "retorno_apos_final": true,
+  "lacunas_imagens": 0,
+  "dma_stream_finalizado": true,
+  "gatinho_candidatos_dma": [],
+  "intervencoes": [
+    {
+      "quadro": "215817",
+      "evento": "intervencao_tiro_final",
+      "fase": "15",
+      "valor": "",
+      "pc": "00C7",
+      "banco": "0"
+    }
+  ],
+  "coletas_laser": []
+}

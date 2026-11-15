@@ -1,0 +1,8 @@
+rom=1943h00100
+quadro=720
+estado=ok
+alvo=F5C0
+hp=1
+camadas=40
+criacao_bloqueada=37
+impactos=1

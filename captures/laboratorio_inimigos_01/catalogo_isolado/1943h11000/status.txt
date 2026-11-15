@@ -1,0 +1,5 @@
+indice=88
+total=87
+modelo=
+quadro=1200
+estado=concluido

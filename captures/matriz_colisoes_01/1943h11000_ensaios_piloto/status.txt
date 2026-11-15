@@ -1,0 +1,5 @@
+indice=26
+total=25
+caso=
+quadro=0
+estado=concluido

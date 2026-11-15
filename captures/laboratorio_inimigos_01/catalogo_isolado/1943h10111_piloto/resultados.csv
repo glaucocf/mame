@@ -1,0 +1,8 @@
+modelo,rotina,alvo,hp_original,hp_minimo,impactos_naturais,resultado,movimento_observado,x_min,x_max,y_min,y_max,projeteis_emitidos,ativacoes_bloqueadas,pecas_graficas,quadros,camadas
+M005,alvo,F5C0,1,0,1,destruido_por_disparo_natural,true,102,176,94,105,0,23,1,360,40
+M009,alvo_multisprite,F7C0,6,0,1,destruido_por_disparo_natural,true,176,234,94,97,2,10,4,360,40
+M011,alvo_grande,FA40,8,0,1,destruido_por_disparo_natural,true,176,210,113,140,5,18,16,360,40
+M016,alvo,FDC0,4,0,1,destruido_por_disparo_natural,true,146,176,72,72,2,13,1,360,40
+M018,alvo_multisprite,FAC0,15,0,1,destruido_por_disparo_natural,true,146,176,64,74,5,10,4,360,40
+M051,alvo,FE20,64,0,4,destruido_por_disparo_natural,true,160,176,90,105,10,0,0,360,40
+N003,alvo,F5E0,4,0,1,destruido_por_disparo_natural,false,0,0,72,72,0,89,1,360,40

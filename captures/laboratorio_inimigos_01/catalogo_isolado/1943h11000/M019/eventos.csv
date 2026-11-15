@@ -1,0 +1,17 @@
+quadro,evento,endereco,antes,depois,pc,ix,iy
+0,alvo_pronto,FAC0,33,15,00D4,F200,F280
+23,projetil_emitido_pelo_alvo,F000,0,1,3F72,FAC0,F000
+71,projetil_emitido_pelo_alvo,F020,0,1,3F72,FAC0,F020
+119,projetil_emitido_pelo_alvo,F000,0,1,3F72,FAC0,F000
+121,movimento_livre,FAC0,176,64,00D3,F200,F280
+167,projetil_emitido_pelo_alvo,F020,0,1,3F72,FAC0,F020
+181,alvo_pronto,FAC0,33,15,00D4,F200,F280
+190,impacto_natural,FACB,15,10,5E5C,FAC0,F380
+192,impacto_natural,FACB,10,8,5E5C,FAC0,F3A0
+196,impacto_natural,FACB,8,3,5E5C,FAC0,F3C0
+198,impacto_natural,FACB,3,1,5E5C,FAC0,F3E0
+202,impacto_natural,FACB,1,0,5E68,FAC0,F380
+203,criacao_propria_fora_do_pool_de_tiros_bloqueada,F5C8,0,16,8383,FAC0,F5C0
+203,criacao_propria_fora_do_pool_de_tiros_bloqueada,F5C8,0,16,8383,FAC0,F5C0
+203,criacao_propria_fora_do_pool_de_tiros_bloqueada,F5C8,0,16,8383,FAC0,F5C0
+203,criacao_propria_fora_do_pool_de_tiros_bloqueada,F5C8,0,16,8383,FAC0,F5C0

@@ -1,0 +1,5 @@
+indice=21
+total=20
+caso=
+quadro=0
+estado=concluido

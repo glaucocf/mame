@@ -1,0 +1,13 @@
+caso,modelo,modo,arma,resultado,quadros,alvo,tiro,flags_iniciais,tipo,resistencia_inicial,resistencia_final,forca_inicial,forca_final,estado_tiro_final,energia_inicial,energia_apos_dano,invuln_final,flag_jogador_07,leituras_flags,aproximacoes,pc_primeiro_evento,rotina,referencia_inicial,referencia_esperada,energia_antes_dano,dano_por_contato
+M005_laser_segmento_1,M005,arma,10,atingiu_e_continuou,9,F5C0,F380,03,00,1,0,48,47,02,64,64,2,0,20,1,56F0,alvo,5A59,5A59,64,0
+M005_laser_segmento_2,M005,arma,10,atingiu_e_continuou,5,F5C0,F3A0,03,00,1,0,48,47,02,64,64,2,0,6,1,56F0,alvo,5A59,5A59,64,0
+M005_laser_segmento_3,M005,arma,10,atingiu_e_continuou,9,F5C0,F3C0,03,00,1,0,48,47,02,64,64,2,0,20,1,56F0,alvo,5A59,5A59,64,0
+M011_laser_segmento_1,M011,arma,10,atingiu_e_continuou,5,FA40,F380,03,00,8,0,48,40,02,64,64,2,0,6,1,64F6,alvo_grande,9F48,9F48,64,0
+M011_laser_segmento_2,M011,arma,10,atingiu_e_continuou,9,FA40,F3A0,03,00,8,0,48,40,02,64,64,2,0,20,1,64F6,alvo_grande,9F48,9F48,64,0
+M011_laser_segmento_3,M011,arma,10,atingiu_e_continuou,5,FA40,F3C0,03,00,8,0,48,40,02,64,64,2,0,6,1,64F6,alvo_grande,9F48,9F48,64,0
+M018_laser_segmento_1,M018,arma,10,atingiu_e_continuou,9,FAC0,F380,06,60,15,0,48,33,02,64,64,2,0,20,1,5D57,alvo_multisprite,5F39,5F39,64,0
+M018_laser_segmento_2,M018,arma,10,atingiu_e_continuou,5,FAC0,F3A0,06,60,15,0,48,33,02,64,64,2,0,6,1,5D57,alvo_multisprite,5F39,5F39,64,0
+M018_laser_segmento_3,M018,arma,10,atingiu_e_continuou,9,FAC0,F3C0,06,60,15,0,48,33,02,64,64,2,0,20,1,5D57,alvo_multisprite,5F39,5F39,64,0
+M051_laser_segmento_1,M051,arma,10,atingiu_e_consumiu_tiro,5,FE20,F380,07,00,64,16,48,48,04,64,64,2,0,6,1,56DE,alvo,ABA5,ABA5,64,0
+M051_laser_segmento_2,M051,arma,10,atingiu_e_consumiu_tiro,9,FE20,F3A0,07,00,64,16,48,48,04,64,64,2,0,20,1,56DE,alvo,ABA5,ABA5,64,0
+M051_laser_segmento_3,M051,arma,10,atingiu_e_consumiu_tiro,5,FE20,F3C0,07,00,64,16,48,48,04,64,64,2,0,6,1,56DE,alvo,ABA5,ABA5,64,0

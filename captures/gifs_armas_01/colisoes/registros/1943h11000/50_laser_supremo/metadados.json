@@ -1,0 +1,13 @@
+{
+  "rom": "1943h11000",
+  "arma_hex": "50",
+  "nome": "laser_supremo",
+  "save": "C:\\Users\\glauc\\OneDrive\\Documentos\\claude\\arcade\\battle-of-midway\\mame-src\\captures\\1943h11000\\catalogacao_01\\checkpoint_f0001800.sta",
+  "quadros": 420,
+  "protocolo": "1-30 solto;31-150 segurando;151-180 solto;181-300 pulsos de 3 quadros ligado/3 desligado;301-420 solto",
+  "rapid_fire": false,
+  "somente_cheat": false,
+  "sprites_exibidos": "registros 10-2D; jogador e pools de tiros; coordenadas reais de DMA",
+  "cadencia_dma": 1,
+  "cadencia_gif": 2
+}

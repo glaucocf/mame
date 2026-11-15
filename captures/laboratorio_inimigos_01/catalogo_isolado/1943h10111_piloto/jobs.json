@@ -1,0 +1,72 @@
+[
+  {
+    "id": "M005",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h10111/M005.sta",
+    "target": 62912,
+    "reference": 23129,
+    "hp": 1,
+    "routine": "alvo",
+    "label": "Aviao pequeno - formacao inicial",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h10111_piloto/M005"
+  },
+  {
+    "id": "M009",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h10111/M009.sta",
+    "target": 63424,
+    "reference": 24239,
+    "hp": 6,
+    "routine": "alvo_multisprite",
+    "label": "Visual: Aviao maior - peca grafica 380",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h10111_piloto/M009"
+  },
+  {
+    "id": "M011",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h10111/M011.sta",
+    "target": 64064,
+    "reference": 40776,
+    "hp": 8,
+    "routine": "alvo_grande",
+    "label": "Visual: Aviao maior - peca grafica 666",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h10111_piloto/M011"
+  },
+  {
+    "id": "M016",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h10111/M016.sta",
+    "target": 64960,
+    "reference": 23129,
+    "hp": 4,
+    "routine": "alvo",
+    "label": "Visual: Canhao ou torre - serie grafica 450",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h10111_piloto/M016"
+  },
+  {
+    "id": "M018",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h10111/M018.sta",
+    "target": 64192,
+    "reference": 24377,
+    "hp": 15,
+    "routine": "alvo_multisprite",
+    "label": "Visual: Canhao ou torre - serie grafica 420",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h10111_piloto/M018"
+  },
+  {
+    "id": "M051",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h10111/M051.sta",
+    "target": 65056,
+    "reference": 43941,
+    "hp": 64,
+    "routine": "alvo",
+    "label": "Visual: Controle ou objeto ainda sem associacao visual",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h10111_piloto/M051"
+  },
+  {
+    "id": "N003",
+    "checkpoint": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h10111_destruicao/novos/L_4_8392_5A59.sta",
+    "target": 62944,
+    "reference": 23129,
+    "hp": 4,
+    "routine": "alvo",
+    "label": "Novo perfil: L_4_8392_5A59",
+    "output": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/laboratorio_inimigos_01/catalogo_isolado/1943h10111_piloto/N003"
+  }
+]

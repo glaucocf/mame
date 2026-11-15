@@ -1,0 +1,3 @@
+quadros=420
+dma=420
+resultado=ok

@@ -1,0 +1,4 @@
+return {
+{id="N003_arma_10",model="N003",mode="arma",weapon=16,checkpoint="C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h10111_destruicao/novos/L_4_8392_5A59.sta",target=62944,reference=23129,output="C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h10111_destruicao_novos/N003_arma_10"},
+{id="N004_arma_10",model="N004",mode="arma",weapon=16,checkpoint="C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h10111_destruicao/novos/L_4_83B2_5A59.sta",target=63392,reference=23129,output="C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h10111_destruicao_novos/N004_arma_10"}
+}

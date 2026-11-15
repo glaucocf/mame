@@ -1,0 +1,4 @@
+@echo off
+cd /d "%~dp0..\..\.."
+python capture_scripts\laboratorio_inimigo.py 1943h00010 --abrir
+if errorlevel 1 pause

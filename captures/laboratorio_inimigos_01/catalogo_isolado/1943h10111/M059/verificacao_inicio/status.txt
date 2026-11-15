@@ -1,0 +1,8 @@
+rom=1943h10111
+quadro=45
+estado=ok
+alvo=FE00
+hp=4
+camadas=40
+criacao_bloqueada=3
+impactos=0

@@ -1,0 +1,13 @@
+caso,quadro,tipo,endereco,antes,depois,pc,ix,iy
+T001_arma_10_sec09F,0,inicio,FC49,4,4,00C5,F200,F280
+T001_arma_10_sec09F,3,teste_flags,FC49,4,4,5FAF,FC40,FD40
+T001_arma_10_sec09F,3,teste_flags,FC49,4,4,5F9E,FC40,FD40
+T001_arma_10_sec09F,4,teste_flags,FC49,4,4,658B,FC40,FD40
+T001_arma_30_sec09F,0,inicio,FC49,4,4,00C5,F200,F280
+T001_arma_30_sec09F,3,teste_flags,FC49,4,4,5FAF,FC40,FD40
+T001_arma_30_sec09F,3,teste_flags,FC49,4,4,5F9E,FC40,FD40
+T001_arma_30_sec09F,4,teste_flags,FC49,4,4,658B,FC40,FD40
+T001_arma_50_sec09F,0,inicio,FC49,4,4,00C5,F200,F280
+T001_arma_50_sec09F,3,teste_flags,FC49,4,4,5FAF,FC40,FD40
+T001_arma_50_sec09F,3,teste_flags,FC49,4,4,5F9E,FC40,FD40
+T001_arma_50_sec09F,4,teste_flags,FC49,4,4,658B,FC40,FD40

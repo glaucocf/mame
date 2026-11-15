@@ -1,0 +1,641 @@
+[
+  {
+    "arquivo": "C:\\Users\\glauc\\OneDrive\\Documentos\\claude\\arcade\\battle-of-midway\\mame-src\\captures\\gifs_armas_01\\1943h10111\\00_normal.gif",
+    "quadros_gif": 210,
+    "duracao_ms": 7040,
+    "cores": 20,
+    "tamanho_bytes": 830414,
+    "rom": "1943h10111",
+    "arma_hex": "00",
+    "comparacao_com_MAME": [
+      {
+        "quadro": 60,
+        "fracao_pixels_jogador_iguais": 1.0,
+        "fracao_tela_completa_sprites_igual": 1.0
+      },
+      {
+        "quadro": 120,
+        "fracao_pixels_jogador_iguais": 1.0,
+        "fracao_tela_completa_sprites_igual": 1.0
+      },
+      {
+        "quadro": 200,
+        "fracao_pixels_jogador_iguais": 1.0,
+        "fracao_tela_completa_sprites_igual": 1.0
+      },
+      {
+        "quadro": 240,
+        "fracao_pixels_jogador_iguais": 1.0,
+        "fracao_tela_completa_sprites_igual": 1.0
+      },
+      {
+        "quadro": 330,
+        "fracao_pixels_jogador_iguais": 1.0,
+        "fracao_tela_completa_sprites_igual": 1.0
+      }
+    ]
+  },
+  {
+    "arquivo": "C:\\Users\\glauc\\OneDrive\\Documentos\\claude\\arcade\\battle-of-midway\\mame-src\\captures\\gifs_armas_01\\1943h10111\\01_auto.gif",
+    "quadros_gif": 210,
+    "duracao_ms": 7040,
+    "cores": 20,
+    "tamanho_bytes": 818097,
+    "rom": "1943h10111",
+    "arma_hex": "01",
+    "comparacao_com_MAME": [
+      {
+        "quadro": 60,
+        "fracao_pixels_jogador_iguais": 1.0,
+        "fracao_tela_completa_sprites_igual": 1.0
+      },
+      {
+        "quadro": 120,
+        "fracao_pixels_jogador_iguais": 1.0,
+        "fracao_tela_completa_sprites_igual": 1.0
+      },
+      {
+        "quadro": 200,
+        "fracao_pixels_jogador_iguais": 1.0,
+        "fracao_tela_completa_sprites_igual": 1.0
+      },
+      {
+        "quadro": 240,
+        "fracao_pixels_jogador_iguais": 1.0,
+        "fracao_tela_completa_sprites_igual": 1.0
+      },
+      {
+        "quadro": 330,
+        "fracao_pixels_jogador_iguais": 1.0,
+        "fracao_tela_completa_sprites_igual": 1.0
+      }
+    ]
+  },
+  {
+    "arquivo": "C:\\Users\\glauc\\OneDrive\\Documentos\\claude\\arcade\\battle-of-midway\\mame-src\\captures\\gifs_armas_01\\1943h10111\\02_shot_gun.gif",
+    "quadros_gif": 210,
+    "duracao_ms": 7040,
+    "cores": 25,
+    "tamanho_bytes": 849405,
+    "rom": "1943h10111",
+    "arma_hex": "02",
+    "comparacao_com_MAME": [
+      {
+        "quadro": 60,
+        "fracao_pixels_jogador_iguais": 1.0,
+        "fracao_tela_completa_sprites_igual": 1.0
+      },
+      {
+        "quadro": 120,
+        "fracao_pixels_jogador_iguais": 1.0,
+        "fracao_tela_completa_sprites_igual": 1.0
+      },
+      {
+        "quadro": 200,
+        "fracao_pixels_jogador_iguais": 1.0,
+        "fracao_tela_completa_sprites_igual": 1.0
+      },
+      {
+        "quadro": 240,
+        "fracao_pixels_jogador_iguais": 1.0,
+        "fracao_tela_completa_sprites_igual": 1.0
+      },
+      {
+        "quadro": 330,
+        "fracao_pixels_jogador_iguais": 1.0,
+        "fracao_tela_completa_sprites_igual": 1.0
+      }
+    ]
+  },
+  {
+    "arquivo": "C:\\Users\\glauc\\OneDrive\\Documentos\\claude\\arcade\\battle-of-midway\\mame-src\\captures\\gifs_armas_01\\1943h10111\\03_shot_gun_plus.gif",
+    "quadros_gif": 210,
+    "duracao_ms": 7040,
+    "cores": 20,
+    "tamanho_bytes": 857006,
+    "rom": "1943h10111",
+    "arma_hex": "03",
+    "comparacao_com_MAME": [
+      {
+        "quadro": 60,
+        "fracao_pixels_jogador_iguais": 1.0,
+        "fracao_tela_completa_sprites_igual": 1.0
+      },
+      {
+        "quadro": 120,
+        "fracao_pixels_jogador_iguais": 1.0,
+        "fracao_tela_completa_sprites_igual": 1.0
+      },
+      {
+        "quadro": 200,
+        "fracao_pixels_jogador_iguais": 1.0,
+        "fracao_tela_completa_sprites_igual": 1.0
+      },
+      {
+        "quadro": 240,
+        "fracao_pixels_jogador_iguais": 1.0,
+        "fracao_tela_completa_sprites_igual": 1.0
+      },
+      {
+        "quadro": 330,
+        "fracao_pixels_jogador_iguais": 1.0,
+        "fracao_tela_completa_sprites_igual": 1.0
+      }
+    ]
+  },
+  {
+    "arquivo": "C:\\Users\\glauc\\OneDrive\\Documentos\\claude\\arcade\\battle-of-midway\\mame-src\\captures\\gifs_armas_01\\1943h10111\\04_three_way.gif",
+    "quadros_gif": 210,
+    "duracao_ms": 7040,
+    "cores": 25,
+    "tamanho_bytes": 881695,
+    "rom": "1943h10111",
+    "arma_hex": "04",
+    "comparacao_com_MAME": [
+      {
+        "quadro": 60,
+        "fracao_pixels_jogador_iguais": 1.0,
+        "fracao_tela_completa_sprites_igual": 1.0
+      },
+      {
+        "quadro": 120,
+        "fracao_pixels_jogador_iguais": 1.0,
+        "fracao_tela_completa_sprites_igual": 1.0
+      },
+      {
+        "quadro": 200,
+        "fracao_pixels_jogador_iguais": 1.0,
+        "fracao_tela_completa_sprites_igual": 1.0
+      },
+      {
+        "quadro": 240,
+        "fracao_pixels_jogador_iguais": 1.0,
+        "fracao_tela_completa_sprites_igual": 1.0
+      },
+      {
+        "quadro": 330,
+        "fracao_pixels_jogador_iguais": 1.0,
+        "fracao_tela_completa_sprites_igual": 1.0
+      }
+    ]
+  },
+  {
+    "arquivo": "C:\\Users\\glauc\\OneDrive\\Documentos\\claude\\arcade\\battle-of-midway\\mame-src\\captures\\gifs_armas_01\\1943h10111\\08_shell.gif",
+    "quadros_gif": 210,
+    "duracao_ms": 7040,
+    "cores": 25,
+    "tamanho_bytes": 868886,
+    "rom": "1943h10111",
+    "arma_hex": "08",
+    "comparacao_com_MAME": [
+      {
+        "quadro": 60,
+        "fracao_pixels_jogador_iguais": 1.0,
+        "fracao_tela_completa_sprites_igual": 1.0
+      },
+      {
+        "quadro": 120,
+        "fracao_pixels_jogador_iguais": 1.0,
+        "fracao_tela_completa_sprites_igual": 1.0
+      },
+      {
+        "quadro": 200,
+        "fracao_pixels_jogador_iguais": 1.0,
+        "fracao_tela_completa_sprites_igual": 1.0
+      },
+      {
+        "quadro": 240,
+        "fracao_pixels_jogador_iguais": 1.0,
+        "fracao_tela_completa_sprites_igual": 1.0
+      },
+      {
+        "quadro": 330,
+        "fracao_pixels_jogador_iguais": 1.0,
+        "fracao_tela_completa_sprites_igual": 1.0
+      }
+    ]
+  },
+  {
+    "arquivo": "C:\\Users\\glauc\\OneDrive\\Documentos\\claude\\arcade\\battle-of-midway\\mame-src\\captures\\gifs_armas_01\\1943h10111\\10_laser.gif",
+    "quadros_gif": 210,
+    "duracao_ms": 7040,
+    "cores": 18,
+    "tamanho_bytes": 873508,
+    "rom": "1943h10111",
+    "arma_hex": "10",
+    "comparacao_com_MAME": [
+      {
+        "quadro": 60,
+        "fracao_pixels_jogador_iguais": 1.0,
+        "fracao_tela_completa_sprites_igual": 1.0
+      },
+      {
+        "quadro": 120,
+        "fracao_pixels_jogador_iguais": 1.0,
+        "fracao_tela_completa_sprites_igual": 1.0
+      },
+      {
+        "quadro": 200,
+        "fracao_pixels_jogador_iguais": 1.0,
+        "fracao_tela_completa_sprites_igual": 1.0
+      },
+      {
+        "quadro": 240,
+        "fracao_pixels_jogador_iguais": 0.970516,
+        "fracao_tela_completa_sprites_igual": 1.0
+      },
+      {
+        "quadro": 330,
+        "fracao_pixels_jogador_iguais": 1.0,
+        "fracao_tela_completa_sprites_igual": 1.0
+      }
+    ]
+  },
+  {
+    "arquivo": "C:\\Users\\glauc\\OneDrive\\Documentos\\claude\\arcade\\battle-of-midway\\mame-src\\captures\\gifs_armas_01\\1943h11000\\00_normal.gif",
+    "quadros_gif": 210,
+    "duracao_ms": 7040,
+    "cores": 20,
+    "tamanho_bytes": 838816,
+    "rom": "1943h11000",
+    "arma_hex": "00",
+    "comparacao_com_MAME": [
+      {
+        "quadro": 60,
+        "fracao_pixels_jogador_iguais": 1.0,
+        "fracao_tela_completa_sprites_igual": 1.0
+      },
+      {
+        "quadro": 120,
+        "fracao_pixels_jogador_iguais": 1.0,
+        "fracao_tela_completa_sprites_igual": 1.0
+      },
+      {
+        "quadro": 200,
+        "fracao_pixels_jogador_iguais": 1.0,
+        "fracao_tela_completa_sprites_igual": 1.0
+      },
+      {
+        "quadro": 240,
+        "fracao_pixels_jogador_iguais": 1.0,
+        "fracao_tela_completa_sprites_igual": 1.0
+      },
+      {
+        "quadro": 330,
+        "fracao_pixels_jogador_iguais": 1.0,
+        "fracao_tela_completa_sprites_igual": 1.0
+      }
+    ]
+  },
+  {
+    "arquivo": "C:\\Users\\glauc\\OneDrive\\Documentos\\claude\\arcade\\battle-of-midway\\mame-src\\captures\\gifs_armas_01\\1943h11000\\01_auto.gif",
+    "quadros_gif": 210,
+    "duracao_ms": 7040,
+    "cores": 21,
+    "tamanho_bytes": 917058,
+    "rom": "1943h11000",
+    "arma_hex": "01",
+    "comparacao_com_MAME": [
+      {
+        "quadro": 60,
+        "fracao_pixels_jogador_iguais": 1.0,
+        "fracao_tela_completa_sprites_igual": 1.0
+      },
+      {
+        "quadro": 120,
+        "fracao_pixels_jogador_iguais": 1.0,
+        "fracao_tela_completa_sprites_igual": 1.0
+      },
+      {
+        "quadro": 200,
+        "fracao_pixels_jogador_iguais": 1.0,
+        "fracao_tela_completa_sprites_igual": 1.0
+      },
+      {
+        "quadro": 240,
+        "fracao_pixels_jogador_iguais": 1.0,
+        "fracao_tela_completa_sprites_igual": 1.0
+      },
+      {
+        "quadro": 330,
+        "fracao_pixels_jogador_iguais": 1.0,
+        "fracao_tela_completa_sprites_igual": 1.0
+      }
+    ]
+  },
+  {
+    "arquivo": "C:\\Users\\glauc\\OneDrive\\Documentos\\claude\\arcade\\battle-of-midway\\mame-src\\captures\\gifs_armas_01\\1943h11000\\02_shot_gun.gif",
+    "quadros_gif": 210,
+    "duracao_ms": 7040,
+    "cores": 21,
+    "tamanho_bytes": 923615,
+    "rom": "1943h11000",
+    "arma_hex": "02",
+    "comparacao_com_MAME": [
+      {
+        "quadro": 60,
+        "fracao_pixels_jogador_iguais": 1.0,
+        "fracao_tela_completa_sprites_igual": 1.0
+      },
+      {
+        "quadro": 120,
+        "fracao_pixels_jogador_iguais": 1.0,
+        "fracao_tela_completa_sprites_igual": 1.0
+      },
+      {
+        "quadro": 200,
+        "fracao_pixels_jogador_iguais": 1.0,
+        "fracao_tela_completa_sprites_igual": 1.0
+      },
+      {
+        "quadro": 240,
+        "fracao_pixels_jogador_iguais": 1.0,
+        "fracao_tela_completa_sprites_igual": 1.0
+      },
+      {
+        "quadro": 330,
+        "fracao_pixels_jogador_iguais": 1.0,
+        "fracao_tela_completa_sprites_igual": 1.0
+      }
+    ]
+  },
+  {
+    "arquivo": "C:\\Users\\glauc\\OneDrive\\Documentos\\claude\\arcade\\battle-of-midway\\mame-src\\captures\\gifs_armas_01\\1943h11000\\03_shot_gun_plus.gif",
+    "quadros_gif": 210,
+    "duracao_ms": 7040,
+    "cores": 20,
+    "tamanho_bytes": 855509,
+    "rom": "1943h11000",
+    "arma_hex": "03",
+    "comparacao_com_MAME": [
+      {
+        "quadro": 60,
+        "fracao_pixels_jogador_iguais": 1.0,
+        "fracao_tela_completa_sprites_igual": 1.0
+      },
+      {
+        "quadro": 120,
+        "fracao_pixels_jogador_iguais": 1.0,
+        "fracao_tela_completa_sprites_igual": 1.0
+      },
+      {
+        "quadro": 200,
+        "fracao_pixels_jogador_iguais": 1.0,
+        "fracao_tela_completa_sprites_igual": 1.0
+      },
+      {
+        "quadro": 240,
+        "fracao_pixels_jogador_iguais": 1.0,
+        "fracao_tela_completa_sprites_igual": 1.0
+      },
+      {
+        "quadro": 330,
+        "fracao_pixels_jogador_iguais": 1.0,
+        "fracao_tela_completa_sprites_igual": 1.0
+      }
+    ]
+  },
+  {
+    "arquivo": "C:\\Users\\glauc\\OneDrive\\Documentos\\claude\\arcade\\battle-of-midway\\mame-src\\captures\\gifs_armas_01\\1943h11000\\04_three_way.gif",
+    "quadros_gif": 210,
+    "duracao_ms": 7040,
+    "cores": 20,
+    "tamanho_bytes": 873639,
+    "rom": "1943h11000",
+    "arma_hex": "04",
+    "comparacao_com_MAME": [
+      {
+        "quadro": 60,
+        "fracao_pixels_jogador_iguais": 1.0,
+        "fracao_tela_completa_sprites_igual": 1.0
+      },
+      {
+        "quadro": 120,
+        "fracao_pixels_jogador_iguais": 1.0,
+        "fracao_tela_completa_sprites_igual": 1.0
+      },
+      {
+        "quadro": 200,
+        "fracao_pixels_jogador_iguais": 1.0,
+        "fracao_tela_completa_sprites_igual": 1.0
+      },
+      {
+        "quadro": 240,
+        "fracao_pixels_jogador_iguais": 1.0,
+        "fracao_tela_completa_sprites_igual": 1.0
+      },
+      {
+        "quadro": 330,
+        "fracao_pixels_jogador_iguais": 1.0,
+        "fracao_tela_completa_sprites_igual": 1.0
+      }
+    ]
+  },
+  {
+    "arquivo": "C:\\Users\\glauc\\OneDrive\\Documentos\\claude\\arcade\\battle-of-midway\\mame-src\\captures\\gifs_armas_01\\1943h11000\\08_shell.gif",
+    "quadros_gif": 210,
+    "duracao_ms": 7040,
+    "cores": 25,
+    "tamanho_bytes": 848259,
+    "rom": "1943h11000",
+    "arma_hex": "08",
+    "comparacao_com_MAME": [
+      {
+        "quadro": 60,
+        "fracao_pixels_jogador_iguais": 1.0,
+        "fracao_tela_completa_sprites_igual": 1.0
+      },
+      {
+        "quadro": 120,
+        "fracao_pixels_jogador_iguais": 1.0,
+        "fracao_tela_completa_sprites_igual": 1.0
+      },
+      {
+        "quadro": 200,
+        "fracao_pixels_jogador_iguais": 1.0,
+        "fracao_tela_completa_sprites_igual": 1.0
+      },
+      {
+        "quadro": 240,
+        "fracao_pixels_jogador_iguais": 1.0,
+        "fracao_tela_completa_sprites_igual": 1.0
+      },
+      {
+        "quadro": 330,
+        "fracao_pixels_jogador_iguais": 1.0,
+        "fracao_tela_completa_sprites_igual": 1.0
+      }
+    ]
+  },
+  {
+    "arquivo": "C:\\Users\\glauc\\OneDrive\\Documentos\\claude\\arcade\\battle-of-midway\\mame-src\\captures\\gifs_armas_01\\1943h11000\\10_laser.gif",
+    "quadros_gif": 210,
+    "duracao_ms": 7040,
+    "cores": 29,
+    "tamanho_bytes": 891164,
+    "rom": "1943h11000",
+    "arma_hex": "10",
+    "comparacao_com_MAME": [
+      {
+        "quadro": 60,
+        "fracao_pixels_jogador_iguais": 1.0,
+        "fracao_tela_completa_sprites_igual": 1.0
+      },
+      {
+        "quadro": 120,
+        "fracao_pixels_jogador_iguais": 1.0,
+        "fracao_tela_completa_sprites_igual": 1.0
+      },
+      {
+        "quadro": 200,
+        "fracao_pixels_jogador_iguais": 1.0,
+        "fracao_tela_completa_sprites_igual": 1.0
+      },
+      {
+        "quadro": 240,
+        "fracao_pixels_jogador_iguais": 1.0,
+        "fracao_tela_completa_sprites_igual": 1.0
+      },
+      {
+        "quadro": 330,
+        "fracao_pixels_jogador_iguais": 1.0,
+        "fracao_tela_completa_sprites_igual": 1.0
+      }
+    ]
+  },
+  {
+    "arquivo": "C:\\Users\\glauc\\OneDrive\\Documentos\\claude\\arcade\\battle-of-midway\\mame-src\\captures\\gifs_armas_01\\1943h11000\\30_laser_plus.gif",
+    "quadros_gif": 210,
+    "duracao_ms": 7040,
+    "cores": 28,
+    "tamanho_bytes": 856605,
+    "rom": "1943h11000",
+    "arma_hex": "30",
+    "comparacao_com_MAME": [
+      {
+        "quadro": 60,
+        "fracao_pixels_jogador_iguais": 1.0,
+        "fracao_tela_completa_sprites_igual": 1.0
+      },
+      {
+        "quadro": 120,
+        "fracao_pixels_jogador_iguais": 1.0,
+        "fracao_tela_completa_sprites_igual": 1.0
+      },
+      {
+        "quadro": 200,
+        "fracao_pixels_jogador_iguais": 1.0,
+        "fracao_tela_completa_sprites_igual": 1.0
+      },
+      {
+        "quadro": 240,
+        "fracao_pixels_jogador_iguais": 1.0,
+        "fracao_tela_completa_sprites_igual": 1.0
+      },
+      {
+        "quadro": 330,
+        "fracao_pixels_jogador_iguais": 1.0,
+        "fracao_tela_completa_sprites_igual": 1.0
+      }
+    ]
+  },
+  {
+    "arquivo": "C:\\Users\\glauc\\OneDrive\\Documentos\\claude\\arcade\\battle-of-midway\\mame-src\\captures\\gifs_armas_01\\1943h11000\\50_laser_supremo.gif",
+    "quadros_gif": 210,
+    "duracao_ms": 7040,
+    "cores": 28,
+    "tamanho_bytes": 880629,
+    "rom": "1943h11000",
+    "arma_hex": "50",
+    "comparacao_com_MAME": [
+      {
+        "quadro": 60,
+        "fracao_pixels_jogador_iguais": 1.0,
+        "fracao_tela_completa_sprites_igual": 1.0
+      },
+      {
+        "quadro": 120,
+        "fracao_pixels_jogador_iguais": 1.0,
+        "fracao_tela_completa_sprites_igual": 1.0
+      },
+      {
+        "quadro": 200,
+        "fracao_pixels_jogador_iguais": 1.0,
+        "fracao_tela_completa_sprites_igual": 1.0
+      },
+      {
+        "quadro": 240,
+        "fracao_pixels_jogador_iguais": 1.0,
+        "fracao_tela_completa_sprites_igual": 1.0
+      },
+      {
+        "quadro": 330,
+        "fracao_pixels_jogador_iguais": 1.0,
+        "fracao_tela_completa_sprites_igual": 1.0
+      }
+    ]
+  },
+  {
+    "arquivo": "C:\\Users\\glauc\\OneDrive\\Documentos\\claude\\arcade\\battle-of-midway\\mame-src\\captures\\gifs_armas_01\\comparacao\\00_normal.gif",
+    "quadros_gif": 210,
+    "duracao_ms": 7040,
+    "cores": 29,
+    "tamanho_bytes": 1592538
+  },
+  {
+    "arquivo": "C:\\Users\\glauc\\OneDrive\\Documentos\\claude\\arcade\\battle-of-midway\\mame-src\\captures\\gifs_armas_01\\comparacao\\01_auto.gif",
+    "quadros_gif": 210,
+    "duracao_ms": 7040,
+    "cores": 30,
+    "tamanho_bytes": 1679408
+  },
+  {
+    "arquivo": "C:\\Users\\glauc\\OneDrive\\Documentos\\claude\\arcade\\battle-of-midway\\mame-src\\captures\\gifs_armas_01\\comparacao\\02_shot_gun.gif",
+    "quadros_gif": 210,
+    "duracao_ms": 7040,
+    "cores": 35,
+    "tamanho_bytes": 1705905
+  },
+  {
+    "arquivo": "C:\\Users\\glauc\\OneDrive\\Documentos\\claude\\arcade\\battle-of-midway\\mame-src\\captures\\gifs_armas_01\\comparacao\\03_shot_gun_plus.gif",
+    "quadros_gif": 210,
+    "duracao_ms": 7040,
+    "cores": 29,
+    "tamanho_bytes": 1640126
+  },
+  {
+    "arquivo": "C:\\Users\\glauc\\OneDrive\\Documentos\\claude\\arcade\\battle-of-midway\\mame-src\\captures\\gifs_armas_01\\comparacao\\04_three_way.gif",
+    "quadros_gif": 210,
+    "duracao_ms": 7040,
+    "cores": 34,
+    "tamanho_bytes": 1677250
+  },
+  {
+    "arquivo": "C:\\Users\\glauc\\OneDrive\\Documentos\\claude\\arcade\\battle-of-midway\\mame-src\\captures\\gifs_armas_01\\comparacao\\08_shell.gif",
+    "quadros_gif": 210,
+    "duracao_ms": 7040,
+    "cores": 34,
+    "tamanho_bytes": 1658082
+  },
+  {
+    "arquivo": "C:\\Users\\glauc\\OneDrive\\Documentos\\claude\\arcade\\battle-of-midway\\mame-src\\captures\\gifs_armas_01\\comparacao\\10_laser.gif",
+    "quadros_gif": 210,
+    "duracao_ms": 7040,
+    "cores": 38,
+    "tamanho_bytes": 1711814
+  },
+  {
+    "arquivo": "C:\\Users\\glauc\\OneDrive\\Documentos\\claude\\arcade\\battle-of-midway\\mame-src\\captures\\gifs_armas_01\\comparacao\\30_laser_plus.gif",
+    "quadros_gif": 210,
+    "duracao_ms": 7040,
+    "cores": 28,
+    "tamanho_bytes": 1553827
+  },
+  {
+    "arquivo": "C:\\Users\\glauc\\OneDrive\\Documentos\\claude\\arcade\\battle-of-midway\\mame-src\\captures\\gifs_armas_01\\comparacao\\50_laser_supremo.gif",
+    "quadros_gif": 210,
+    "duracao_ms": 7040,
+    "cores": 28,
+    "tamanho_bytes": 1590773
+  }
+]

@@ -1,0 +1,5 @@
+indice=86
+total=85
+caso=
+quadro=0
+estado=concluido

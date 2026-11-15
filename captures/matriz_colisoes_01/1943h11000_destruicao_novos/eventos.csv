@@ -1,0 +1,11 @@
+caso,quadro,tipo,endereco,antes,depois,pc,ix,iy
+N003_arma_50,0,inicio,F5C9,2,2,00C6,F200,F280
+N003_arma_50,3,teste_flags,F5C9,2,2,5FAF,F5C0,F300
+N003_arma_50,3,teste_flags,F5C9,2,2,5F9E,F5C0,F300
+N003_arma_50,3,teste_flags,F5C9,2,2,575B,F5C0,F300
+N003_arma_50,63,teste_flags,F5C9,2,2,578C,F5C0,F380
+N003_arma_50,63,teste_flags,F5C9,2,2,582B,F5C0,F4A0
+N003_arma_50,69,tiro_selecionado,F38D,5,5,579F,F5C0,F380
+N003_arma_50,69,alvo_destruido,F5CB,2,0,57FC,F5C0,F380
+N003_arma_50,69,efeito_colisao,F5CB,2,0,57FC,F5C0,F380
+N003_arma_50,69,efeito_colisao,F38D,5,3,5804,F5C0,F380

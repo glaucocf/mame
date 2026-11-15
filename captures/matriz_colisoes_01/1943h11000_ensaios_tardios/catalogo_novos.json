@@ -1,0 +1,16 @@
+[
+  {
+    "chave": "L_-1_389E_677B",
+    "caso": "M023_arma_50",
+    "quadro": "270",
+    "endereco": "FC40",
+    "referencia": "677B",
+    "flags": "04",
+    "tipo": "00",
+    "resistencia": "32",
+    "estado": "40",
+    "arquivo": "C:/Users/glauc/OneDrive/Documentos/claude/arcade/battle-of-midway/mame-src/captures/matriz_colisoes_01/1943h11000_destruicao_longa/novos/L_-1_389E_677B.sta",
+    "bytes": "00008FC00000000040040020000000000000000000000007000000007B677B67",
+    "modelo": "T001"
+  }
+]

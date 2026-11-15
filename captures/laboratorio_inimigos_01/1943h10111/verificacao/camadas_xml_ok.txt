@@ -1,0 +1,1 @@
+8 combinacoes e desligamento conferidos nos estados reais do driver. Caracteres preservados.
